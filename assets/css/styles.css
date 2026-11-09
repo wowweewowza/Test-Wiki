@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 
 a {
-  color: green;
+  color: rgba(0, 255, 255, 1);
   text-decoration: none;
 }
 
@@ -46,29 +46,57 @@ body {
   visibility: visible;
 }
 
-/* Scrollable Lists */
+/* Styled Containers */
 
-.scrollable-list {
+.list-container {
+  border: 2px solid white;
+  border-radius: 16px;
   display: flex;
   flex-direction: column;
-  height: 400px;
+  padding: 0px 20px;
 }
 
-.scrollable-list h2 {
-  text-align: center;
+.list-container h2 {
+  margin-bottom: 0px!important;
 }
 
-.scrollable-list ul {
-  overflow-x: auto;
-  scrollbar-color: gray transparent;
-  scrollbar-width: thin;
+.list-container div {
+  border-radius: 16px;
+  overflow: hidden;
+  padding-inline-start: 0px!important;
+  margin: 20px 0px;
 }
 
-/* Basic */
-
-.flex-container {
-  display: flex;
+.list-container form {
+  padding: 0px 20px;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow 0.25s ease-out;
 }
+
+.list-container form > button {
+  border: none;
+  background-color: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.list-container form:hover {
+  box-shadow: inset 0 0 0 100px rgba(0, 255, 255, 0.2);
+  color: rgba(0, 255, 255, 1);
+}
+
+.list-container form:nth-child(odd) {
+  background-color: rgba(255,255,255,0.15);
+}
+
+.list-container form:nth-child(even) {
+  background-color: rgba(255,255,255,0.05);
+}
+
+
+/* Wiki Tags */
 
 .wiki-tag {
   background-color: rgba(255,255,255,0.15);
@@ -91,4 +119,46 @@ body {
 
 .wiki-tag:hover .reveal-info {
   visibility: visible;
+}
+
+/* Basic */
+
+.flex-container {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.grid-container {
+  display: grid;
+}
+
+.grid-item {
+  padding-right: 10px;
+}
+
+.two-grid-col {
+  grid-template-columns: 1fr 1fr;
+}
+
+.no-dot {
+  list-style-type: none;
+}
+
+.full-rounded {
+  border-radius: 16px;
+}
+
+.left-rounded {
+  border-radius: 16px 0px 0px 16px;
+}
+
+.right-rounded {
+  border-radius: 0px 16px 16px 0px;
 }
