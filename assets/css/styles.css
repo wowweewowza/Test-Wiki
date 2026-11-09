@@ -2,6 +2,7 @@
 
 a {
   color: green;
+  text-decoration: none;
 }
 
 a:hover {
@@ -19,6 +20,8 @@ body {
   font-family: 'Saira', sans-serif;
   padding: 10px 20px;
 }
+
+/* Tooltip */
 
 .tooltip {
   position: relative;
@@ -41,4 +44,28 @@ body {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+/* Scrollable Lists */
+
+.scrollable-list {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+}
+
+.scrollable-list h2 {
+  text-align: center;
+}
+
+.scrollable-list ul {
+  overflow-x: auto;
+  scrollbar-color: gray transparent;
+  scrollbar-width: thin;
+}
+
+/* Basic */
+
+.flex-container {
+  display: flex;
 }
