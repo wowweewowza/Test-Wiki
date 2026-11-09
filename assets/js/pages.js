@@ -101,9 +101,11 @@ if (purviewList) {
     purviewList.innerHTML = data
         .sort((a, b) => a.title.localeCompare(b.title))
         .map(item => `
-            <button class="grid-container two-grid-col">
-                <div class="grid-item">${item.title}</div>
-                <div>${item.info}</div>
-            </button>`)
+            <a>
+                <button class="grid-container two-grid-col">
+                    <div>${item.title}</div>
+                    <div>${item.info}</div>
+                </button>
+            </a>`)
         .join('');
 }

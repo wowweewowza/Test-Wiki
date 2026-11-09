@@ -12,8 +12,8 @@ if (nameList) {
     nameList.innerHTML = data
         .sort((a, b) => a.name.localeCompare(b.name))
         .map(item => `
-            <form action="../pages/wikipage.html?name=${encodeURIComponent(item.name)}" method="get">
-                <button type="submit">${item.name}</button>
-            </form>`)
+            <a href="../pages/wikipage.html?name=${encodeURIComponent(item.name)}">
+                <button type="button">${item.name}</button>
+            </a>`)
         .join('');
 }
