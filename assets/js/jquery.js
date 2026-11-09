@@ -27,11 +27,36 @@ if (entityName) {
     entityName.textContent = entity.name;
 }
 
+const entityPantheon = document.getElementById('ent-pantheon');
+if (entityPantheon) {
+    const entity = await getEntity();
+    entityPantheon.textContent = entity.pantheon;
+}
+
+const entityAliases = document.getElementById('ent-aliases');
+if (entityAliases) {
+    const entity = await getEntity();
+    entityAliases.textContent = entity.aliases;
+}
+
 const entityPurviews = document.getElementById('ent-purviews')
 if (entityPurviews) {   
     const entity = await getEntity();
     entityPurviews.innerHTML = `
         ${entity.purviews
+            .slice()
+            .sort((a, b) => a.localeCompare(b))
+            .map(item => `<span class='wiki-tag'>${item}</span>`)
+            .join('')
+        }
+    `;
+}
+
+const entityCallings = document.getElementById('ent-callings')
+if (entityCallings) {   
+    const entity = await getEntity();
+    entityCallings.innerHTML = `
+        ${entity.callings
             .slice()
             .sort((a, b) => a.localeCompare(b))
             .map(item => `<span class='wiki-tag'>${item}</span>`)
