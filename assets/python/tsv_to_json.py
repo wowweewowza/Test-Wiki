@@ -2,21 +2,56 @@ import os
 import re
 import json
 
+# Get file name from user
+
+file_name = input('FILE NAME\n> ')
+
 # Get directory of current file.
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Get data path
 
-data_path = os.path.abspath(os.path.join(script_dir, '..', 'tsv', 'data.tsv'))
+data_path = os.path.abspath(os.path.join(script_dir, '..', 'tsv', f'{file_name}.tsv'))
 
 # JSON data output path
 
-output_path = os.path.abspath(os.path.join(script_dir, '..', 'json', 'data.json'))
+output_path = os.path.abspath(os.path.join(script_dir, '..', 'json', f'{file_name}.json'))
+data_root = []
 
 def main():
 
-    data_root = []
+    data_root = make_data_root()
+    # print(data_root[0])
+    write_to_json(data_root)
 
+def clean_purviews(purviews):
+    purview_typos = {
+        'Beasts': ['Beast', 'Berasts'],
+        'Journeys': ['Journey'],
+        'Fertility': ['Feritlity', 'Feritility'],
+        'Health' : ['Healtrh'],
+        'Earth': ['Earath']
+    }
+    
+    cleaned_purviews = []
+    
+    for p in purviews:
+        for key in purview_typos:
+            values = purview_typos[key]
+            for val in values:
+                if val == p:
+                    cleaned_purviews.append(key)
+                else:
+                    cleaned_purviews.append(p)
+    
+    return cleaned_purviews
+    
+def write_to_json(data_root):
+    with open(output_path, 'w', encoding='utf-8') as file:
+        json.dump(data_root, file, indent=4, ensure_ascii=False)
+
+def make_data_root():
+    
     with open(data_path, 'r', encoding='utf-8') as file:
         first_line = file.readline().strip().lower()
         keys = first_line.split('\t')
@@ -36,16 +71,13 @@ def main():
                     pattern = r'(\w+)\s\(([^)]+)\)'
                     result = re.sub(pattern, expand_parenthesis, val)
                     vals = [x.strip() for x in result.split(',')]
-                    data_entry[key] = vals
+                    cleaned_purviews = clean_purviews(vals)
+                    data_entry[key] = list(set(cleaned_purviews))
                 else:
                     data_entry[key] = val
 
             data_root.append(data_entry)
-
-    with open(output_path, 'w', encoding='utf-8') as file:
-        json.dump(data_root, file, indent=4, ensure_ascii=False)
-
-    print(data_root[0])
+    return data_root
 
 def expand_parenthesis(match):
     main_word = match.group(1)

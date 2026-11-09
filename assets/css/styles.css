@@ -69,3 +69,26 @@ body {
 .flex-container {
   display: flex;
 }
+
+.wiki-tag {
+  background-color: rgba(255,255,255,0.15);
+  border: 2px solid white;
+  border-radius: 16px;
+  margin: 0px 2px;
+  padding: 2px 8px;
+}
+
+.wiki-tag .reveal-info {
+  position: absolute;
+}
+
+.reveal-info {
+  background-color: gray;
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+}
+
+.wiki-tag:hover .reveal-info {
+  visibility: visible;
+}

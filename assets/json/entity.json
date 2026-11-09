@@ -10,12 +10,12 @@
             "Lover"
         ],
         "purviews": [
-            "Beauty",
+            "Sun",
             "Passion (Love)",
             "Passion (Peace)",
             "Health",
-            "Epic Stamina",
-            "Sun"
+            "Beauty",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -31,12 +31,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Storytelling)",
             "Artistry (Poetry)",
             "Artistry (Song)",
             "Epic Dexterity",
+            "Passion (Joy)",
             "Fortune",
-            "Passion (Joy)"
+            "Artistry (Storytelling)"
         ],
         "notes": "",
         "book": ""
@@ -52,14 +52,14 @@
             "Sage"
         ],
         "purviews": [
-            "Beauty",
+            "War",
             "Death",
+            "Passion (Love)",
+            "Fortune",
+            "Beauty",
             "Epic Stamina",
             "Fertility",
-            "Fortune",
-            "Passion (Love)",
-            "Passion (Lust)",
-            "War"
+            "Passion (Lust)"
         ],
         "notes": "",
         "book": ""
@@ -75,11 +75,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beauty",
-            "Fertility",
-            "Order",
             "War",
-            "Wild"
+            "Order",
+            "Wild",
+            "Beauty",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -95,10 +95,10 @@
             "Lover"
         ],
         "purviews": [
-            "Beasts (Falcon)",
-            "Fortune",
+            "Wild",
             "Order",
-            "Wild"
+            "Beasts (Falcon)",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -114,8 +114,8 @@
             "Hunter"
         ],
         "purviews": [
-            "Artistry (Horns)",
             "Beauty",
+            "Artistry (Horns)",
             "Epic Stamina",
             "Journeys"
         ],
@@ -136,9 +136,9 @@
             "Death",
             "Frost",
             "Forge",
+            "Health",
             "Passion (Fear)",
-            "Passion (Disgust)",
-            "Health"
+            "Passion (Disgust)"
         ],
         "notes": "",
         "book": ""
@@ -155,8 +155,8 @@
         ],
         "purviews": [
             "Deception",
-            "Chaos",
             "Fire",
+            "Chaos",
             "Epic Strength"
         ],
         "notes": "",
@@ -173,12 +173,12 @@
             "Liminal"
         ],
         "purviews": [
-            "Fertility",
-            "Fire",
             "Journeys",
-            "Prosperity",
+            "Fire",
+            "Water",
             "Sky",
-            "Water"
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -194,11 +194,11 @@
             "Trickster"
         ],
         "purviews": [
-            "Fortune",
             "Journeys",
-            "War",
             "Artistry (Poetry)",
+            "War",
             "Death",
+            "Fortune",
             "Deception",
             "Epic Stamina"
         ],
@@ -217,9 +217,9 @@
         ],
         "purviews": [
             "Beauty",
-            "Earth",
             "Fertility",
-            "Order"
+            "Order",
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -235,11 +235,11 @@
             "Judge"
         ],
         "purviews": [
-            "Earth",
-            "Epic Dexterity",
             "Journeys",
-            "Order",
-            "Frost"
+            "Epic Dexterity",
+            "Earth",
+            "Frost",
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -255,10 +255,10 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
+            "Sky",
             "Epic Stamina",
             "Fertility",
-            "Sky"
+            "Epic Strength"
         ],
         "notes": "",
         "book": ""
@@ -274,10 +274,10 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Stamina",
             "Order",
-            "Passion (Courage)",
-            "War"
+            "Epic Stamina",
+            "War",
+            "Passion (Courage)"
         ],
         "notes": "",
         "book": ""
@@ -293,17 +293,17 @@
             "Trickster"
         ],
         "purviews": [
-            "Artistry (Pottery)",
             "Artistry (Sculpture)",
-            "Beasts (Fish)",
             "Beasts (Goat)",
+            "Artistry (Pottery)",
             "Beasts (Turtle)",
-            "Fertility",
+            "Prosperity",
+            "Water",
+            "Stars",
             "Forge",
             "Fortune",
-            "Prosperity",
-            "Stars",
-            "Water"
+            "Beasts (Fish)",
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -319,15 +319,15 @@
             "Leader"
         ],
         "purviews": [
-            "Deception",
+            "Stars",
             "Forge",
-            "Fortune",
-            "Order",
             "Passion (Benevolence)",
-            "Passion (Wrath)",
-            "Prosperity",
             "Sky",
-            "Stars"
+            "Fortune",
+            "Deception",
+            "Order",
+            "Prosperity",
+            "Passion (Wrath)"
         ],
         "notes": "",
         "book": "Demigod"
@@ -344,12 +344,12 @@
         ],
         "purviews": [
             "Beasts (Birds)",
-            "Darkness",
-            "Death",
             "Earth",
+            "Death",
+            "Darkness",
+            "Health",
             "Epic Stamina",
-            "Fertility",
-            "Health"
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -365,15 +365,15 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Lion)",
-            "Beauty",
             "Epic Dexterity",
-            "Epic Strength",
-            "Fertility",
-            "Passion (Anger)",
+            "War",
             "Passion (Love)",
-            "Passion (Lust)",
-            "War"
+            "Epic Strength",
+            "Beasts (Lion)",
+            "Passion (Anger)",
+            "Beauty",
+            "Fertility",
+            "Passion (Lust)"
         ],
         "notes": "",
         "book": "Demigod"
@@ -389,13 +389,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Dragon)",
-            "Beasts (Snake)",
             "Epic Dexterity",
             "Epic Strength",
-            "Fire",
             "Order",
-            "Sky"
+            "Sky",
+            "Beasts (Dragon)",
+            "Fire",
+            "Beasts (Snake)"
         ],
         "notes": "",
         "book": "Demigod"
@@ -411,14 +411,14 @@
             "Judge"
         ],
         "purviews": [
-            "Artistry (Music)",
             "Beasts (Birds)",
-            "Beasts (Fish)",
+            "Water",
+            "Artistry (Music)",
+            "Order",
             "Darkness",
             "Health",
-            "Order",
-            "Prosperity",
-            "Water"
+            "Beasts (Fish)",
+            "Prosperity"
         ],
         "notes": "",
         "book": "Demigod"
@@ -434,17 +434,17 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Bull)",
-            "Beasts (Lion)",
             "Chaos",
-            "Death",
-            "Epic Stamina",
-            "Epic Strength",
-            "Fire",
-            "Health",
-            "Passion (Wrath)",
             "Sun",
-            "War"
+            "War",
+            "Fire",
+            "Death",
+            "Epic Strength",
+            "Beasts (Lion)",
+            "Health",
+            "Epic Stamina",
+            "Passion (Wrath)",
+            "Beasts (Bull)"
         ],
         "notes": "",
         "book": "Demigod"
@@ -461,10 +461,10 @@
         ],
         "purviews": [
             "Earth",
-            "Epic Stamina",
-            "Fertility",
             "Forge",
-            "Health"
+            "Health",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -480,14 +480,14 @@
             "Sage"
         ],
         "purviews": [
-            "Beauty",
-            "Epic Stamina",
-            "Fortune",
-            "Health",
-            "Order",
             "Passion (Terror)",
             "Passion (Wisdom)",
-            "Sky"
+            "Order",
+            "Sky",
+            "Health",
+            "Beauty",
+            "Epic Stamina",
+            "Fortune"
         ],
         "notes": "",
         "book": "Demigod"
@@ -503,13 +503,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Bird)",
-            "Beasts (Lion Scorpion)",
             "Epic Dexterity",
+            "War",
+            "Beasts (Bird)",
             "Epic Strength",
+            "Beasts (Lion Scorpion)",
             "Health",
-            "Order",
-            "War"
+            "Order"
         ],
         "notes": "",
         "book": "Demigod"
@@ -525,12 +525,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Writing)",
-            "Death",
-            "Fertility",
             "Journeys",
+            "Sun",
+            "Death",
+            "Artistry (Writing)",
             "Order",
-            "Sun"
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -546,12 +546,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Cattle)",
-            "Fertility",
-            "Fortune",
             "Journeys",
+            "Beasts (Cattle)",
             "Moon",
             "Order",
+            "Fortune",
+            "Fertility",
             "Prosperity"
         ],
         "notes": "",
@@ -568,17 +568,17 @@
             "Lover"
         ],
         "purviews": [
+            "Passion (Grief)",
             "Artistry (Food)",
             "Beasts (Livestock)",
-            "Darkness",
             "Death",
-            "Epic Stamina",
-            "Fertility",
-            "Health",
             "Passion (Exhaustion)",
+            "Darkness",
+            "Passion (Hope)",
+            "Health",
             "Passion (Fear)",
-            "Passion (Grief)",
-            "Passion (Hope)"
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -596,8 +596,8 @@
         "purviews": [
             "Beauty",
             "Passion",
-            "Sky",
-            "Stars"
+            "Stars",
+            "Sky"
         ],
         "notes": "",
         "book": ""
@@ -633,10 +633,10 @@
         ],
         "purviews": [
             "Epic Dexterity",
-            "Epic Strength",
-            "Sky",
             "War",
-            "Water"
+            "Water",
+            "Epic Strength",
+            "Sky"
         ],
         "notes": "",
         "book": ""
@@ -652,12 +652,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
-            "Fertility",
-            "Fire",
-            "Order",
             "Sun",
-            "War"
+            "War",
+            "Fire",
+            "Epic Strength",
+            "Order",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -673,10 +673,10 @@
             "Sage"
         ],
         "purviews": [
-            "Fortune",
-            "Order",
             "Sky",
-            "Water"
+            "Order",
+            "Water",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -692,10 +692,10 @@
             "Liminal"
         ],
         "purviews": [
+            "Water",
             "Beast (Aquatic Creatures)",
-            "Health",
             "Journeys (Water)",
-            "Water"
+            "Health"
         ],
         "notes": "",
         "book": ""
@@ -711,11 +711,11 @@
             "Lover"
         ],
         "purviews": [
+            "Moon",
+            "Health",
             "Beauty",
             "Epic Stamina",
-            "Fertility",
-            "Health",
-            "Moon"
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -731,11 +731,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beast (All)",
+            "War",
             "Earth",
             "Epic Strength",
-            "Order",
-            "War"
+            "Beast (All)",
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -751,12 +751,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Beast (Serpents)",
-            "Earth",
             "Feritility",
-            "Fortune",
             "War",
-            "Wild"
+            "Earth",
+            "Fortune",
+            "Wild",
+            "Beast (Serpents)",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -772,10 +773,10 @@
             "Trickster"
         ],
         "purviews": [
-            "Darkness",
-            "Death",
-            "Deception",
             "Earth",
+            "Death",
+            "Darkness",
+            "Deception",
             "Prosperity"
         ],
         "notes": "",
@@ -792,11 +793,11 @@
             "Judge"
         ],
         "purviews": [
+            "Journeys",
             "Death",
-            "Epic Stamina",
             "Epic Strength",
             "Health",
-            "Journeys"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -812,11 +813,11 @@
             "Lover"
         ],
         "purviews": [
-            "Artistry (Dance)",
-            "Beauty",
-            "Fire",
             "Journeys",
-            "Passion"
+            "Artistry (Dance)",
+            "Passion",
+            "Beauty",
+            "Fire"
         ],
         "notes": "",
         "book": "Demigod"
@@ -834,9 +835,9 @@
         "purviews": [
             "Beasts (Birds)",
             "Fire",
+            "Stars",
             "Health",
-            "Order",
-            "Stars"
+            "Order"
         ],
         "notes": "",
         "book": "Demigod"
@@ -852,11 +853,11 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
             "Earth",
             "Epic Strength",
-            "Fertility",
             "Sky",
-            "War"
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -872,10 +873,10 @@
             "Primeval"
         ],
         "purviews": [
-            "Beasts (Woodpecker)",
-            "Order",
             "Sky",
-            "Sun"
+            "Order",
+            "Sun",
+            "Beasts (Woodpecker)"
         ],
         "notes": "",
         "book": "Demigod"
@@ -892,10 +893,10 @@
         ],
         "purviews": [
             "Beasts (Birds)",
-            "Beauty",
             "Epic Strength",
             "Forge",
-            "Wild"
+            "Wild",
+            "Beauty"
         ],
         "notes": "",
         "book": "Demigod"
@@ -912,12 +913,12 @@
         ],
         "purviews": [
             "Beasts (Sea Creatures)",
-            "Fertility",
             "Fire",
+            "Water",
             "Forge",
             "Moon",
             "Sky",
-            "Water"
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -933,10 +934,10 @@
             "Primeval"
         ],
         "purviews": [
+            "Sky",
             "Epic Stamina",
-            "Epic Strength",
             "Passion (Rage)",
-            "Sky"
+            "Epic Strength"
         ],
         "notes": "",
         "book": "Demigod"
@@ -952,11 +953,11 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
+            "Epic Strength",
             "Beasts",
             "Epic Stamina",
-            "Epic Strength",
-            "Fertility",
-            "War"
+            "Fertility"
         ],
         "notes": "",
         "book": "Demigod"
@@ -973,10 +974,10 @@
         ],
         "purviews": [
             "Journeys",
-            "Sky",
-            "Sun",
+            "War",
             "Stars",
-            "War"
+            "Sky",
+            "Sun"
         ],
         "notes": "",
         "book": ""
@@ -992,12 +993,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Chaos",
-            "Epic Dexterity",
-            "Epic Stamina",
             "Journeys",
+            "Epic Dexterity",
+            "Chaos",
+            "Sky",
             "Passion",
-            "Sky"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1013,12 +1014,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts",
-            "Earth",
-            "Healtrh",
             "Journeys",
+            "Earth",
             "Water",
-            "Wild"
+            "Wild",
+            "Health",
+            "Beasts",
+            "Healtrh"
         ],
         "notes": "",
         "book": ""
@@ -1035,11 +1037,11 @@
         ],
         "purviews": [
             "Artistry",
-            "Beauty",
             "Epic Dexterity",
-            "Fortune",
+            "War",
             "Sky",
-            "War"
+            "Fortune",
+            "Beauty"
         ],
         "notes": "",
         "book": ""
@@ -1056,14 +1058,14 @@
         ],
         "purviews": [
             "Artistry",
-            "Beasts",
-            "Beauty",
+            "Water",
+            "Frost",
+            "Stars",
+            "Moon",
             "Darkness",
             "Fortune",
-            "Frost",
-            "Moon",
-            "Stars",
-            "Water"
+            "Beasts",
+            "Beauty"
         ],
         "notes": "",
         "book": ""
@@ -1079,12 +1081,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Stamina",
-            "Order",
-            "Sky",
             "War",
-            "Water"
+            "Epic Stamina",
+            "Water",
+            "Epic Strength",
+            "Sky",
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -1100,12 +1102,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Chaos",
             "Epic Dexterity",
-            "Epic Stamina",
+            "Chaos",
+            "War",
             "Epic Strength",
             "Forge",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1121,14 +1123,14 @@
             "Leader"
         ],
         "purviews": [
-            "Earth",
-            "Fertility",
             "Fire",
-            "Fortune",
-            "Health",
+            "Earth",
             "Order",
+            "Health",
+            "Wild",
+            "Fertility",
             "Prosperity",
-            "Wild"
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -1145,10 +1147,10 @@
         ],
         "purviews": [
             "Artistry",
-            "Beauty",
-            "Deception",
-            "Fortune",
             "Passion",
+            "Fortune",
+            "Deception",
+            "Beauty",
             "Prosperity"
         ],
         "notes": "",
@@ -1165,11 +1167,11 @@
             "Liminal"
         ],
         "purviews": [
-            "Darkness",
             "Death",
+            "Water",
+            "Darkness",
             "Fortune",
-            "Prosperity",
-            "Water"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -1185,12 +1187,12 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
+            "War",
             "Epic Stamina",
             "Epic Strength",
-            "Journeys",
-            "Order",
             "Passion",
-            "War"
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -1206,12 +1208,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Deception",
-            "Death",
+            "Journeys",
             "Epic Dexterity",
-            "Epic Stamina",
+            "Death",
             "Health",
-            "Journeys"
+            "Deception",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1227,13 +1229,13 @@
             "Healer"
         ],
         "purviews": [
-            "Darkness",
-            "Death",
             "Earth",
-            "Epic Stamina",
+            "Death",
             "Frost",
+            "Darkness",
             "Health",
-            "Wild"
+            "Wild",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1249,15 +1251,15 @@
             "Judge"
         ],
         "purviews": [
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Epic Strength",
-            "Fortune",
-            "Health",
             "Journeys",
+            "Epic Dexterity",
+            "War",
+            "Epic Strength",
             "Order",
+            "Health",
+            "Epic Stamina",
             "Prosperity",
-            "War"
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -1273,14 +1275,14 @@
             "Trickster"
         ],
         "purviews": [
-            "Chaos",
-            "Darkness",
-            "Deception",
             "Epic Dexterity",
-            "Epic Stamina",
+            "Chaos",
+            "War",
             "Epic Strength",
             "Order",
-            "War"
+            "Darkness",
+            "Deception",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1296,13 +1298,13 @@
             "Leader"
         ],
         "purviews": [
-            "Beasts (Wolf)",
-            "Epic Strength",
-            "Epic Stamina",
             "Fire Forge",
             "Journeys",
+            "Sun",
+            "Epic Strength",
             "Sky",
-            "Sun"
+            "Beasts (Wolf)",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1318,16 +1320,17 @@
             "Lover"
         ],
         "purviews": [
-            "Beasts (Deer)",
-            "Beasts (Horses)",
-            "Beasts (Rams)",
-            "Beauty",
-            "Earth",
             "Epic Dexterity",
-            "Epic Stamina",
-            "Feritlity",
+            "Earth",
+            "Beasts (Deer)",
+            "Beasts (Rams)",
             "Fire",
-            "Prosperity"
+            "Prosperity",
+            "Beasts (Horses)",
+            "Feritlity",
+            "Beauty",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1343,18 +1346,18 @@
             "Healer"
         ],
         "purviews": [
-            "Artistry (Spinning)",
             "Artistry (Weaving)",
-            "Beasts (Swans)",
-            "Earth",
-            "Epic Stamina",
-            "Fertility",
-            "Fortune",
             "Health",
-            "Order",
+            "Earth",
+            "Beasts (Swans)",
             "Prosperity",
             "Water",
-            "Wild"
+            "Order",
+            "Fortune",
+            "Wild",
+            "Epic Stamina",
+            "Fertility",
+            "Artistry (Spinning)"
         ],
         "notes": "",
         "book": ""
@@ -1370,14 +1373,14 @@
             "Sage"
         ],
         "purviews": [
-            "Darkness",
-            "Death",
             "Epic Dexterity",
-            "Epic Stamina",
+            "War",
             "Fire",
-            "Frost",
+            "Death",
             "Water",
-            "War"
+            "Frost",
+            "Darkness",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1393,16 +1396,16 @@
             "Warrior"
         ],
         "purviews": [
+            "Epic Dexterity",
             "Beasts (Eagle)",
             "Beasts (Horse)",
-            "Epic Strength",
-            "Epic Dexterity",
-            "Fertility",
+            "War",
             "Fire",
-            "Fortune",
+            "Epic Strength",
             "Order",
             "Sky",
-            "War"
+            "Fortune",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1418,17 +1421,17 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Snake)",
-            "Darkness",
-            "Deception",
-            "Epic Dexterity",
-            "Fortune",
             "Journeys",
-            "Moon",
-            "Order",
-            "Sky",
+            "Epic Dexterity",
+            "War",
             "Stars",
-            "War"
+            "Moon",
+            "Sky",
+            "Darkness",
+            "Fortune",
+            "Deception",
+            "Order",
+            "Beasts (Snake)"
         ],
         "notes": "",
         "book": ""
@@ -1444,14 +1447,14 @@
             "Sage"
         ],
         "purviews": [
-            "Earth",
             "Epic Dexterity",
+            "Earth",
             "Epic Strength",
-            "Fire",
             "Forge",
-            "Fortune",
             "Order",
-            "Sky"
+            "Sky",
+            "Fortune",
+            "Fire"
         ],
         "notes": "",
         "book": ""
@@ -1467,12 +1470,12 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
+            "Fire",
             "Earth",
             "Epic Strength",
-            "Epic Stamina",
-            "Fire",
             "Forge",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1488,18 +1491,18 @@
             "Trickster"
         ],
         "purviews": [
-            "Beasts (Bears)",
-            "Beasts (Wolves)",
-            "Beasts (Snakes)",
-            "Beasts (Owls)",
             "Chaos",
-            "Darkness",
-            "Death",
-            "Deception",
             "Earth",
+            "Death",
             "Fertility",
+            "Beasts (Bears)",
             "Water",
-            "Wild"
+            "Wild",
+            "Darkness",
+            "Deception",
+            "Beasts (Owls)",
+            "Beasts (Snakes)",
+            "Beasts (Wolves)"
         ],
         "notes": "",
         "book": ""
@@ -1515,13 +1518,13 @@
             "Lover"
         ],
         "purviews": [
-            "Beauty",
             "Death",
-            "Epic Stamina",
-            "Fertility",
-            "Health",
+            "Water",
             "Passion",
-            "Water"
+            "Health",
+            "Beauty",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1537,13 +1540,13 @@
             "Sage"
         ],
         "purviews": [
-            "Darkness",
-            "Death",
-            "Epic Dexterity",
             "Journeys",
+            "Epic Dexterity",
+            "Death",
+            "Stars",
             "Moon",
             "Sky",
-            "Stars"
+            "Darkness"
         ],
         "notes": "",
         "book": ""
@@ -1559,15 +1562,15 @@
             "Liminal"
         ],
         "purviews": [
-            "Beasts (Horses)",
-            "Beauty",
-            "Epic Dexterity",
-            "Fertility",
             "Journeys",
+            "Epic Dexterity",
+            "War",
+            "Stars",
+            "Beasts (Horses)",
             "Moon",
             "Sky",
-            "Stars",
-            "War"
+            "Beauty",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1583,13 +1586,13 @@
             "Liminal"
         ],
         "purviews": [
-            "Artistry (Homemaking)",
-            "Deception",
-            "Epic Stamina",
             "Journeys",
-            "Sky",
+            "",
             "Stars",
-            ""
+            "Artistry (Homemaking)",
+            "Sky",
+            "Deception",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1605,12 +1608,12 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Dexterity",
-            "Fire",
             "Journeys",
-            "Prosperity",
-            "Water"
+            "Epic Dexterity",
+            "Water",
+            "Epic Strength",
+            "Fire",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -1626,12 +1629,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
-            "Epic Stamina",
+            "War",
+            "Epic Strength",
             "Deception",
-            "Fertility",
-            "War"
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1647,12 +1650,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Dance)",
+            "Journeys",
+            "Chaos",
             "Artistry (Writing)",
             "Beasts (Elephants)",
-            "Chaos",
             "Fortune",
-            "Journeys",
+            "Artistry (Dance)",
             "Prosperity"
         ],
         "notes": "",
@@ -1669,14 +1672,14 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
             "Beasts (Cattle)",
-            "Fertility",
+            "War",
+            "Epic Strength",
             "Order",
-            "Wild",
             "Sky",
-            "War"
+            "Wild",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1692,15 +1695,15 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
-            "Epic Stamina",
-            "Artistry (Dance)",
             "Chaos",
-            "Darkness",
+            "Fire",
             "Death",
+            "Epic Strength",
+            "Darkness",
             "Deception",
-            "Fire"
+            "Artistry (Dance)",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1716,12 +1719,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
-            "Epic Stamina",
-            "Beauty",
+            "War",
             "Stars",
-            "War"
+            "Epic Strength",
+            "Beauty",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1737,14 +1740,14 @@
             "Lover"
         ],
         "purviews": [
-            "Epic Strength",
-            "Beauty",
             "Earth",
-            "Fertility",
-            "Fortune",
-            "Order",
-            "Passion (Joy)",
             "Passion (Love)",
+            "Epic Strength",
+            "Passion (Joy)",
+            "Order",
+            "Fortune",
+            "Beauty",
+            "Fertility",
             "Prosperity"
         ],
         "notes": "",
@@ -1761,15 +1764,15 @@
             "Trickster"
         ],
         "purviews": [
+            "Earth",
+            "Passion (Love)",
+            "Frost",
             "Epic Strength",
-            "Epic Stamina",
+            "Passion (Devotion)",
             "Artistry (Dance)",
             "Beauty",
-            "Earth",
-            "Fertility",
-            "Frost",
-            "Passion (Devotion)",
-            "Passion (Love)"
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1785,11 +1788,11 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Dexterity",
             "Artistry",
-            "Health",
-            "Water"
+            "Epic Dexterity",
+            "Water",
+            "Epic Strength",
+            "Health"
         ],
         "notes": "",
         "book": ""
@@ -1805,18 +1808,18 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
-            "Epic Stamina",
-            "Artistry (Dance)",
-            "Beasts (Monkeys)",
             "Chaos",
-            "Death",
-            "Deception",
-            "Fertility",
             "Fire",
+            "Death",
+            "Fertility",
+            "Epic Strength",
             "Moon",
-            "Sky"
+            "Sky",
+            "Deception",
+            "Artistry (Dance)",
+            "Epic Stamina",
+            "Beasts (Monkeys)"
         ],
         "notes": "",
         "book": ""
@@ -1832,13 +1835,13 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Dexterity",
-            "Fire",
-            "Health",
             "Journeys",
+            "Epic Dexterity",
+            "Sun",
             "Stars",
-            "Sun"
+            "Epic Strength",
+            "Health",
+            "Fire"
         ],
         "notes": "",
         "book": ""
@@ -1854,13 +1857,13 @@
             "Leader"
         ],
         "purviews": [
-            "Epic Strength",
-            "Darkness",
-            "Fertility",
-            "Order",
-            "Sky",
             "Sun",
-            "Water"
+            "Water",
+            "Epic Strength",
+            "Sky",
+            "Darkness",
+            "Order",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -1876,15 +1879,15 @@
             "Trickster"
         ],
         "purviews": [
-            "Epic Strength",
             "Epic Dexterity",
-            "Epic Stamina",
-            "Artistry (Dance)",
-            "Artistry (Wind Instruments)",
+            "Epic Strength",
             "Beauty",
-            "Deception",
             "Order",
-            "Passion (Hope)"
+            "Passion (Hope)",
+            "Artistry (Wind Instruments)",
+            "Deception",
+            "Artistry (Dance)",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1900,10 +1903,10 @@
             "Liminal"
         ],
         "purviews": [
-            "Artistry (All)",
-            "Beasts (Doves)",
             "Chaos",
+            "Artistry (All)",
             "Forge",
+            "Beasts (Doves)",
             "Order",
             "Prosperity"
         ],
@@ -1921,12 +1924,12 @@
             "Liminal"
         ],
         "purviews": [
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Darkness",
-            "Death",
             "Journeys",
-            "Order"
+            "Epic Dexterity",
+            "Death",
+            "Order",
+            "Darkness",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -1942,11 +1945,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beauty",
+            "War",
             "Death",
-            "Epic  Stamina",
             "Passion (Love)",
-            "War"
+            "Epic  Stamina",
+            "Beauty"
         ],
         "notes": "",
         "book": ""
@@ -1962,13 +1965,13 @@
             "Lover"
         ],
         "purviews": [
+            "Sun",
+            "Passion (Love)",
             "Artistry (Dance)",
+            "Health",
             "Beauty",
             "Fire",
-            "Health",
-            "Passion (Love)",
-            "Prosperity",
-            "Sun"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -1984,12 +1987,12 @@
             "Judge"
         ],
         "purviews": [
+            "Epic Strength",
+            "Sky",
             "Artistry (Sports)",
-            "Beasts (Bulls)",
             "Beauty",
             "Epic Stamina",
-            "Epic Strength",
-            "Sky"
+            "Beasts (Bulls)"
         ],
         "notes": "",
         "book": ""
@@ -2005,15 +2008,15 @@
             "Healer"
         ],
         "purviews": [
-            "Artistry (Sports)",
             "Beasts (Ocean Life)",
             "Beasts (Farm Animals Except  Bulls)",
-            "Epic  Stamina",
-            "Fertility",
-            "Health",
-            "Prosperity",
             "Water",
-            "Wild"
+            "Artistry (Sports)",
+            "Epic  Stamina",
+            "Health",
+            "Wild",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -2030,10 +2033,10 @@
         ],
         "purviews": [
             "Artistry (Poetry)",
-            "Chaos",
-            "Deception",
             "Epic Dexterity",
-            "Fortune"
+            "Chaos",
+            "Fortune",
+            "Deception"
         ],
         "notes": "",
         "book": ""
@@ -2050,8 +2053,8 @@
         ],
         "purviews": [
             "Death",
-            "Epic Stamina",
             "Order",
+            "Epic Stamina",
             "Passion (Lust)"
         ],
         "notes": "",
@@ -2068,15 +2071,15 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Pottery)",
             "Artistry (Weaving)",
-            "Beauty",
-            "Death",
+            "Artistry (Pottery)",
             "Earth",
-            "Epic Stamina",
-            "Fertility",
+            "Death",
+            "Moon",
             "Health",
-            "Moon"
+            "Beauty",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2092,14 +2095,14 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
+            "Fire",
+            "Prosperity",
+            ". Wild (Desert)",
+            "Sky",
             "Beasts (Bulls)",
             "Epic Stamina",
-            "Fertility",
-            "Fire",
-            "Journeys",
-            "Prosperity",
-            "Sky",
-            ". Wild (Desert)"
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2117,10 +2120,10 @@
         "purviews": [
             "Beasts (Eagle)",
             "Beasts (Jaguar)",
-            "Darkness",
-            "Deception",
             "Death",
-            "Moon"
+            "Moon",
+            "Darkness",
+            "Deception"
         ],
         "notes": "",
         "book": "God"
@@ -2137,8 +2140,8 @@
         ],
         "purviews": [
             "Death",
-            "Epic Strength",
             "Fire",
+            "Epic Strength",
             "War"
         ],
         "notes": "",
@@ -2156,11 +2159,11 @@
         ],
         "purviews": [
             "Earth (Agriculture)",
-            "Epic Strength",
-            "Fertility",
-            "Sky",
             "War",
-            "Water"
+            "Water",
+            "Epic Strength",
+            "Sky",
+            "Fertility"
         ],
         "notes": "",
         "book": "God"
@@ -2176,17 +2179,17 @@
             "Leader"
         ],
         "purviews": [
-            "Beasts (Spiders)",
             "Beasts (Scorpions)",
-            "Beasts (Centipedes)",
-            "Beasts (Vultures)",
-            "Beasts (Owls)",
-            "Beasts (Bats)",
-            "Beasts (Dogs)",
-            "Darkness",
             "Death",
+            "Beasts (Vultures)",
+            "Beasts (Dogs)",
+            "Beasts (Bats)",
+            "Darkness",
+            "Beasts (Centipedes)",
             "Earth (Earthquakes)",
-            "Fire"
+            "Beasts (Owls)",
+            "Fire",
+            "Beasts (Spiders)"
         ],
         "notes": "",
         "book": "God"
@@ -2202,11 +2205,12 @@
             "Warrior"
         ],
         "purviews": [
+            "Journeys",
+            "Journey",
+            "War",
             "Earth (Chocolate)",
             "Epic Stamina",
-            "Journey",
-            "Prosperity",
-            "War"
+            "Prosperity"
         ],
         "notes": "",
         "book": "God"
@@ -2222,12 +2226,13 @@
             "Trickster"
         ],
         "purviews": [
-            "Beasts",
-            "Deception",
+            "Journeys",
             "Epic Dexterity",
+            "Sun",
+            "Deception",
             "Health",
-            "Journey",
-            "Sun"
+            "Beasts",
+            "Journey"
         ],
         "notes": "Twin to Xbalanque",
         "book": "God"
@@ -2243,12 +2248,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Painted Codices)",
-            "Earth",
-            "Fortune",
             "Health",
-            "Order",
-            "Sky"
+            "Earth",
+            "Sky",
+            "Artistry (Painted Codices)",
+            "Fortune",
+            "Order"
         ],
         "notes": "",
         "book": "God"
@@ -2265,11 +2270,11 @@
         ],
         "purviews": [
             "Artistry (Weaving)",
-            "Fertility",
-            "Fortune",
-            "Health",
+            "Water",
             "Passion",
-            "Water"
+            "Health",
+            "Fertility",
+            "Fortune"
         ],
         "notes": "",
         "book": "God"
@@ -2286,10 +2291,10 @@
         ],
         "purviews": [
             "Beasts (Serpents)",
+            "Sky",
             "Earth (Earthquakes)",
             "Order",
-            "Prosperity",
-            "Sky"
+            "Prosperity"
         ],
         "notes": "",
         "book": "God"
@@ -2306,12 +2311,12 @@
         ],
         "purviews": [
             "Artistry",
-            "Beasts",
             "Earth",
-            "Fertility",
+            "Water",
             "Order",
             "Sky",
-            "Water"
+            "Beasts",
+            "Fertility"
         ],
         "notes": "",
         "book": "God"
@@ -2327,11 +2332,11 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
             "Beasts (Deer)",
-            "Deception",
-            "Fire",
             "Sky",
-            "War"
+            "Deception",
+            "Fire"
         ],
         "notes": "",
         "book": "God"
@@ -2347,12 +2352,12 @@
             "Leader"
         ],
         "purviews": [
+            "Earth",
+            "Water",
             "Beasts (Dog)",
             "Beasts (Turkey)",
-            "Earth",
-            "Fire",
             "Sky",
-            "Water"
+            "Fire"
         ],
         "notes": "",
         "book": "God"
@@ -2368,12 +2373,13 @@
             "Trickster"
         ],
         "purviews": [
-            "Beasts",
-            "Deception",
+            "Journeys",
             "Epic Dexterity",
+            "Deception",
+            "Moon",
             "Health",
-            "Journey",
-            "Moon"
+            "Beasts",
+            "Journey"
         ],
         "notes": "Twin to Hunahpu",
         "book": "God"
@@ -2389,10 +2395,10 @@
             "Trickster"
         ],
         "purviews": [
-            "Artistry (Dance)",
+            "Passion (Mirth)",
             "Artistry (Singing)",
             "Deception",
-            "Passion (Mirth)",
+            "Artistry (Dance)",
             "Passion (Lust)"
         ],
         "notes": "",
@@ -2409,11 +2415,11 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Strength",
-            "Fertility",
-            "Order",
+            "Sun",
             "Prosperity",
-            "Sun"
+            "Epic Strength",
+            "Order",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2429,12 +2435,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beast (Snake)",
             "Artistry",
-            "Beauty",
+            "Stars",
+            "Beast (Snake)",
             "Fortune",
-            "Fertility",
-            "Stars"
+            "Beauty",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2451,9 +2457,9 @@
         ],
         "purviews": [
             "Epic Dexterity",
-            "Fortune",
             "Prosperity",
-            "War"
+            "War",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -2472,10 +2478,10 @@
             "Beasts (Fish)",
             "Beasts (Sharks)",
             "Beasts (and Whales)",
-            "Epic Stamina",
             "Fortune",
-            "Prosperity",
-            "Wild"
+            "Wild",
+            "Epic Stamina",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -2491,12 +2497,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Deer)",
             "Beasts (Turtle)",
-            "Beasts (Crane)",
-            "Epic Stamina",
+            "Health",
+            "Beasts (Deer)",
             "Fortune",
-            "Health"
+            "Epic Stamina",
+            "Beasts (Crane)"
         ],
         "notes": "",
         "book": ""
@@ -2513,10 +2519,10 @@
         ],
         "purviews": [
             "Artistry",
-            "Beasts (Dove)",
+            "War",
             "Order",
             "Prosperity",
-            "War"
+            "Beasts (Dove)"
         ],
         "notes": "",
         "book": ""
@@ -2532,10 +2538,10 @@
             "Sage"
         ],
         "purviews": [
-            "Chaos",
-            "Fortune",
             "Journeys",
-            "Passion (Joy)"
+            "Passion (Joy)",
+            "Chaos",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -2551,12 +2557,12 @@
             "Liminal"
         ],
         "purviews": [
-            "Beasts (Fox)",
-            "Fertility",
-            "Fortune",
             "Journeys",
-            "Prosperity",
-            "Health"
+            "Beasts (Fox)",
+            "Health",
+            "Fortune",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -2573,8 +2579,8 @@
         ],
         "purviews": [
             "Beauty",
-            "Fortune",
-            "Health"
+            "Health",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -2591,8 +2597,8 @@
         ],
         "purviews": [
             "Beasts (all)",
-            "Darkness",
             "Earth",
+            "Darkness",
             "Fortune",
             "Prosperity"
         ],
@@ -2610,11 +2616,11 @@
             "Trickster"
         ],
         "purviews": [
+            "Sky",
             "Artistry (Rhetoric)",
             "Deception",
             "Order",
-            "Prosperity",
-            "Sky"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -2630,9 +2636,9 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
             "Beasts (Monkey)",
-            "Earth",
-            "Journeys"
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -2651,10 +2657,10 @@
             "Artistry (Poetry)",
             "Chaos",
             "Death",
+            "Water",
             "Epic Strength",
             "Forge",
-            "Sky",
-            "Water"
+            "Sky"
         ],
         "notes": "",
         "book": ""
@@ -2670,12 +2676,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Deer)",
             "Epic Dexterity",
-            "Epic Stamina",
+            "War",
+            "Beasts (Deer)",
             "Epic Strength",
             "Sky",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -2691,9 +2697,9 @@
             "Healer"
         ],
         "purviews": [
+            "Moon",
             "Artistry",
             "Darkness",
-            "Moon",
             "Order"
         ],
         "notes": "",
@@ -2710,9 +2716,9 @@
             "Sage"
         ],
         "purviews": [
-            "Darkness",
             "Death",
             "Epic Stamina",
+            "Darkness",
             "Health"
         ],
         "notes": "",
@@ -2731,8 +2737,8 @@
         "purviews": [
             "Death",
             "Epic Stamina",
-            "Fortune",
-            "Health"
+            "Health",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -2750,9 +2756,9 @@
         "purviews": [
             "Chaos",
             "Death",
+            "Health",
             "Epic Stamina",
-            "Fertility",
-            "Health"
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2768,12 +2774,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Snakes)",
             "Earth",
-            "Fertility",
-            "Order",
+            "Beasts (Snakes)",
+            "Water",
             "Sky",
-            "Water"
+            "Order",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -2790,14 +2796,14 @@
         ],
         "purviews": [
             "Beasts (Bees)",
-            "Beauty",
-            "Fertility",
-            "Fortune",
-            "Frost",
             "Health",
             "Passion (Love)",
-            "Prosperity",
-            "Water"
+            "Frost",
+            "Water",
+            "Fortune",
+            "Beauty",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "Mantle of Oshun",
         "book": ""
@@ -2813,11 +2819,11 @@
             "Trickster"
         ],
         "purviews": [
-            "Chaos",
-            "Darkness",
-            "Fortune",
             "Journeys",
-            "Moon"
+            "Chaos",
+            "Moon",
+            "Darkness",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -2833,13 +2839,13 @@
             "Leader"
         ],
         "purviews": [
-            "Beasts (Cetaceans)",
-            "Epic Strength",
-            "Epic Stamina",
-            "Fertility",
-            "Frost",
             "Journeys",
-            "Water"
+            "Water",
+            "Frost",
+            "Epic Strength",
+            "Beasts (Cetaceans)",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "Mantle of Yemoja-Oboto",
         "book": ""
@@ -2855,12 +2861,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Artistry (Storytelling)",
-            "Chaos",
-            "Deception",
+            "Journeys",
             "Epic Dexterity",
+            "Chaos",
             "Fortune",
-            "Journeys"
+            "Deception",
+            "Artistry (Storytelling)"
         ],
         "notes": "Mantle of Elegba",
         "book": ""
@@ -2876,12 +2882,12 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
             "Earth",
             "Epic Strength",
-            "Epic Stamina",
             "Forge",
             "Passion (Fear)",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "Mantle of Ogun",
         "book": ""
@@ -2898,9 +2904,9 @@
         ],
         "purviews": [
             "Chaos",
-            "Darkness",
             "Frost",
             "Sky",
+            "Darkness",
             "Wild"
         ],
         "notes": "",
@@ -2917,13 +2923,13 @@
             "Judge"
         ],
         "purviews": [
-            "Beasts (Wolf)",
-            "Death",
-            "Epic Stamina",
             "Artistry (Song)",
+            "Death",
             "Artistry (Music)",
             "Order",
-            "Darkness"
+            "Darkness",
+            "Beasts (Wolf)",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -2939,12 +2945,12 @@
             "Healer"
         ],
         "purviews": [
+            "Beasts (Turtle)",
+            "Stars",
             "Moon",
             "Sky",
-            "Stars",
-            "Beasts (Crane)",
-            "Beasts (Turtle)",
-            "Order"
+            "Order",
+            "Beasts (Crane)"
         ],
         "notes": "",
         "book": "Hero"
@@ -2960,15 +2966,15 @@
             "Warrior"
         ],
         "purviews": [
+            "Passion (all light emotions)",
             "Forge",
-            "Sun",
             "Sky",
             "Order",
-            "Beasts (diurnal mammals and Birds)",
             "Beasts (Insects)",
-            "Beasts (and Fish)",
             "Health",
-            "Passion (all light emotions)"
+            "Beasts (and Fish)",
+            "Sun",
+            "Beasts (diurnal mammals and Birds)"
         ],
         "notes": "Of the Orenda",
         "book": "Hero"
@@ -2984,11 +2990,11 @@
             "Hunter"
         ],
         "purviews": [
-            "Beasts (Bear)",
-            "Beasts (Eagle)",
-            "Epic Strength",
             "Epic Dexterity",
-            "War"
+            "Beasts (Eagle)",
+            "War",
+            "Epic Strength",
+            "Beasts (Bear)"
         ],
         "notes": "",
         "book": "Hero"
@@ -3005,11 +3011,11 @@
         ],
         "purviews": [
             "Beasts (all)",
-            "Fertility",
             "Earth",
-            "Sky",
             "Water",
-            "Wild"
+            "Sky",
+            "Wild",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -3025,10 +3031,10 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Rabbit)",
-            "Beasts (or Wolf for Wisakedjak)",
-            "Chaos (Water for Wisakedjak)",
             "Epic Dexterity",
+            "Chaos (Water for Wisakedjak)",
+            "Beasts (or Wolf for Wisakedjak)",
+            "Beasts (Rabbit)",
             "Fortune",
             "Journeys."
         ],
@@ -3047,12 +3053,12 @@
         ],
         "purviews": [
             "Epic Dexterity",
-            "Artistry (Dance)",
             "Artistry (Acting)",
-            "Artistry (Storytelling)",
             "Passion (Mirth)",
             "Fortune",
-            "Deception"
+            "Deception",
+            "Artistry (Dance)",
+            "Artistry (Storytelling)"
         ],
         "notes": "",
         "book": "Hero"
@@ -3069,12 +3075,12 @@
         ],
         "purviews": [
             "Chaos",
-            "Deception",
-            "Darkness",
-            "Death",
+            "War",
             "Passion (all dark emotions)",
+            "Death",
             "Forge",
-            "War"
+            "Darkness",
+            "Deception"
         ],
         "notes": "Of the Orenda",
         "book": "Hero"
@@ -3092,9 +3098,9 @@
         "purviews": [
             "Health",
             "Passion",
-            "Prosperity",
+            "Fortune",
             "Epic Stamina",
-            "Fortune"
+            "Prosperity"
         ],
         "notes": "",
         "book": "Hero"
@@ -3111,10 +3117,10 @@
         ],
         "purviews": [
             "Epic Dexterity",
-            "Epic Stamina",
-            "Fortune",
+            "War",
             "Passion (Bravery)",
-            "War"
+            "Fortune",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -3131,9 +3137,9 @@
         ],
         "purviews": [
             "Death",
-            "Health",
+            "Sun",
             "Stars",
-            "Sun"
+            "Health"
         ],
         "notes": "",
         "book": ""
@@ -3149,9 +3155,9 @@
             "Sage"
         ],
         "purviews": [
+            "Wild",
             "Beasts (Wild Animals)",
-            "Prosperity",
-            "Wild"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -3167,9 +3173,9 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Horses)",
-            "Fertility",
             "Order",
+            "Fertility",
+            "Beasts (Horses)",
             "War"
         ],
         "notes": "",
@@ -3204,13 +3210,13 @@
             "Liminal"
         ],
         "purviews": [
-            "Beasts (Dogs)",
-            "Beasts (Marine Life)",
-            "Fertility",
-            "Health",
             "Journeys",
-            "Prosperity",
-            "Water"
+            "Beasts (Marine Life)",
+            "Water",
+            "Beasts (Dogs)",
+            "Health",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -3226,9 +3232,9 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Bees)",
             "Beasts (Birds)",
             "Fertility",
+            "Beasts (Bees)",
             "Fire"
         ],
         "notes": "",
@@ -3245,13 +3251,13 @@
             "Liminal"
         ],
         "purviews": [
-            "Beasts (Dogs)",
-            "Beasts (Marine Life)",
-            "Fortune",
-            "Health",
             "Journeys",
+            "Beasts (Marine Life)",
+            "Water",
+            "Beasts (Dogs)",
+            "Health",
             "Prosperity",
-            "Water"
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -3267,9 +3273,9 @@
             "Judge"
         ],
         "purviews": [
-            "Earth",
+            "Water",
             "Health",
-            "Water"
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -3285,9 +3291,9 @@
             "Warrior"
         ],
         "purviews": [
+            "Sky",
             "Chaos",
-            "Epic Strength",
-            "Sky"
+            "Epic Strength"
         ],
         "notes": "",
         "book": ""
@@ -3304,8 +3310,8 @@
         ],
         "purviews": [
             "Beast (Jackal)",
-            "Darkness",
             "Death",
+            "Darkness",
             "Order"
         ],
         "notes": "",
@@ -3322,11 +3328,11 @@
             "Trickster"
         ],
         "purviews": [
-            "Beast (Kite)",
-            "Beast (Serpent)",
+            "",
             "Death",
-            "Deception",
-            ""
+            "Beast (Serpent)",
+            "Beast (Kite)",
+            "Deception"
         ],
         "notes": "",
         "book": ""
@@ -3342,17 +3348,17 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (Dance)",
-            "Artistry (Music)",
-            "Beasts (Cats)",
-            "Beasts (Lions)",
             "Epic Dexterity",
-            "Fertility",
-            "Fortune",
-            "Health",
-            "Moon",
             "Sun",
-            "War"
+            "Health",
+            "War",
+            "Beasts (Cats)",
+            "Artistry (Music)",
+            "Moon",
+            "Fortune",
+            "Artistry (Dance)",
+            "Fertility",
+            "Beasts (Lions)"
         ],
         "notes": "",
         "book": ""
@@ -3368,12 +3374,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Baboon)",
-            "Beasts (Ibis)",
-            "Deception",
             "Health",
-            "Fortune",
+            "Beasts (Ibis)",
+            "Beasts (Baboon)",
             "Moon",
+            "Fortune",
+            "Deception",
             "Order"
         ],
         "notes": "",
@@ -3390,12 +3396,12 @@
             "Warrior"
         ],
         "purviews": [
+            "Sun",
+            "War",
             "Beasts (Falcon)",
             "Moon",
-            "Order",
             "Sky",
-            "Sun",
-            "War"
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -3411,14 +3417,14 @@
             "Healer"
         ],
         "purviews": [
-            "Artistry (Music)",
-            "Artistry (Dance)",
-            "Beasts (Cow)",
-            "Beauty",
-            "Fertility",
-            "Fortune",
             "Passion (Love)",
-            "Sky"
+            "Artistry (Music)",
+            "Beasts (Cow)",
+            "Artistry (Dance)",
+            "Sky",
+            "Fortune",
+            "Beauty",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -3434,12 +3440,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Dance)",
-            "Artistry (Pottery)",
             "Beasts (Ram)",
+            "Artistry (Pottery)",
             "Earth",
+            "Water",
             "Health",
-            "Water"
+            "Artistry (Dance)"
         ],
         "notes": "",
         "book": ""
@@ -3455,10 +3461,10 @@
             "Sage"
         ],
         "purviews": [
-            "Beast (Bull)",
             "Fire",
-            "Forge",
-            "Prosperity"
+            "Prosperity",
+            "Beast (Bull)",
+            "Forge"
         ],
         "notes": "",
         "book": ""
@@ -3474,15 +3480,15 @@
             "Leader"
         ],
         "purviews": [
-            "Beast (Falcon)",
-            "Beast (Scarab)",
+            "Journeys",
+            "Sun",
             "Beast (Ram)",
             "Death",
-            "Journeys",
-            "Fire",
-            "Order",
             "Epic Stamina",
-            "Sun"
+            "Order",
+            "Beast (Falcon)",
+            "Fire",
+            "Beast (Scarab)"
         ],
         "notes": "",
         "book": ""
@@ -3498,14 +3504,14 @@
             "Trickster"
         ],
         "purviews": [
-            "Beasts (Salawa)",
-            "Beasts (Fish)",
+            "Journeys",
             "Chaos",
+            "War",
             "Earth",
             "Epic Strength",
-            "Journeys",
+            "Beasts (Salawa)",
             "Sky",
-            "War"
+            "Beasts (Fish)"
         ],
         "notes": "",
         "book": ""
@@ -3521,11 +3527,11 @@
             "Lover"
         ],
         "purviews": [
+            "Water",
             "Beasts (Crocodile)",
             "Epic Stamina",
             "Fertility",
-            "Passion (Lust)",
-            "Water"
+            "Passion (Lust)"
         ],
         "notes": "",
         "book": ""
@@ -3541,12 +3547,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Wolves)",
-            "Death",
-            "Epic Dexterity",
-            "Epic Stamina",
             "Journeys",
-            "War"
+            "Epic Dexterity",
+            "War",
+            "Death",
+            "Epic Stamina",
+            "Beasts (Wolves)"
         ],
         "notes": "",
         "book": ""
@@ -3564,10 +3570,10 @@
         "purviews": [
             "Beasts (Ram)",
             "Beasts (Centipede)",
-            "Death",
             "Earth",
-            "Fertility",
-            "Order"
+            "Death",
+            "Order",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -3583,12 +3589,12 @@
             "Lover"
         ],
         "purviews": [
+            "Passion (Love)",
+            "Water",
+            "Epic Strength",
             "Beauty",
             "Epic Stamina",
-            "Epic Strength",
-            "Passion (Love)",
-            "Prosperity",
-            "Water"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -3604,12 +3610,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Artistry (Storytelling)",
-            "Chaos",
-            "Deception",
+            "Journeys",
             "Epic Dexterity",
+            "Chaos",
             "Fortune",
-            "Journeys"
+            "Deception",
+            "Artistry (Storytelling)"
         ],
         "notes": "",
         "book": "Hero"
@@ -3625,12 +3631,12 @@
             "Trickster"
         ],
         "purviews": [
+            "Death",
+            "Prosperity",
+            "Fortune",
             "Artistry (Dance)",
             "Beasts (Monkeys)",
-            "Death",
-            "Fertility",
-            "Fortune",
-            "Prosperity"
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -3646,11 +3652,11 @@
             "Trickster"
         ],
         "purviews": [
-            "Beauty",
-            "Deception",
-            "Fertility",
             "Fire",
-            "Passion"
+            "Passion",
+            "Deception",
+            "Beauty",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -3667,9 +3673,9 @@
         ],
         "purviews": [
             "Artistry (Sculpture)",
-            "Health",
             "Order",
-            "Sky"
+            "Sky",
+            "Health"
         ],
         "notes": "",
         "book": "Hero"
@@ -3685,10 +3691,10 @@
             "Warrior"
         ],
         "purviews": [
-            "Darkness",
-            "Earth",
             "Order",
-            "War"
+            "Darkness",
+            "War",
+            "Earth"
         ],
         "notes": "",
         "book": "Hero"
@@ -3704,12 +3710,12 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
             "Earth",
             "Epic Strength",
-            "Epic Stamina",
             "Forge",
             "Passion (Fear)",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -3725,12 +3731,12 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (of Burden)",
             "Beasts (Birds)",
-            "Fertility",
+            "Prosperity",
+            "Beasts (of Burden)",
             "Fortune",
             "Order",
-            "Prosperity"
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -3746,10 +3752,10 @@
             "Sage"
         ],
         "purviews": [
-            "Fortune",
+            "Wild",
             "Sky",
             "Stars",
-            "Wild"
+            "Fortune"
         ],
         "notes": "",
         "book": "Hero"
@@ -3766,11 +3772,11 @@
         ],
         "purviews": [
             "Beasts (Birds)",
+            "Health",
+            "Wild",
             "Epic Stamina",
             "Fertility",
-            "Fortune",
-            "Health",
-            "Wild"
+            "Fortune"
         ],
         "notes": "",
         "book": "Hero"
@@ -3806,14 +3812,14 @@
         ],
         "purviews": [
             "Beasts (Bees)",
-            "Beauty",
-            "Fertility",
-            "Fortune",
-            "Frost",
             "Health",
             "Passion (Love)",
-            "Prosperity",
-            "Water"
+            "Frost",
+            "Water",
+            "Fortune",
+            "Beauty",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": "Hero"
@@ -3829,13 +3835,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Bull)",
-            "Epic Strength",
             "Epic Dexterity",
             "Death",
-            "Prosperity",
+            "Water",
+            "Epic Strength",
             "Sky",
-            "Water"
+            "Prosperity",
+            "Beasts (Bull)"
         ],
         "notes": "",
         "book": "Hero"
@@ -3851,16 +3857,16 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
+            "Epic Strength",
             "Artistry (Drums)",
             "Artistry (Dance)",
-            "Beauty",
-            "Epic Strength",
-            "Fire",
             "Order",
             "Passion",
-            "Prosperity",
             "Sky",
-            "War"
+            "Beauty",
+            "Fire",
+            "Prosperity"
         ],
         "notes": "",
         "book": "Hero"
@@ -3876,11 +3882,11 @@
             "Liminal"
         ],
         "purviews": [
-            "Death",
             "Earth",
+            "Death",
             "Health",
-            "Passion (Spite)",
-            "Wild"
+            "Wild",
+            "Passion (Spite)"
         ],
         "notes": "",
         "book": "Hero"
@@ -3896,13 +3902,13 @@
             "Leader"
         ],
         "purviews": [
-            "Beasts (Cetaceans)",
-            "Epic Strength",
-            "Epic Stamina",
-            "Fertility",
-            "Frost",
             "Journeys",
-            "Water"
+            "Water",
+            "Frost",
+            "Epic Strength",
+            "Beasts (Cetaceans)",
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -3918,11 +3924,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (Music)",
+            "War",
             "Epic Stamina",
+            "Artistry (Music)",
             "Epic Strength",
-            "Order",
-            "War"
+            "Order"
         ],
         "notes": "",
         "book": "God"
@@ -3939,9 +3945,9 @@
         ],
         "purviews": [
             "Epic Strength",
+            "Passion",
             "Health",
             "Order",
-            "Passion",
             "Prosperity"
         ],
         "notes": "",
@@ -3958,9 +3964,9 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
             "Passion (Fear)",
             "Sky",
+            "Epic Strength",
             "War"
         ],
         "notes": "",
@@ -3996,10 +4002,10 @@
             "Trickster"
         ],
         "purviews": [
-            "Artistry (Pedantry)",
-            "Health",
             "Journeys",
-            "Prosperity"
+            "Prosperity",
+            "Artistry (Pedantry)",
+            "Health"
         ],
         "notes": "",
         "book": "God"
@@ -4015,12 +4021,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Epic Stamina",
             "Beasts (Rabbits)",
+            "Moon",
             "Beasts (Toads)",
-            "Beauty",
             "Health",
-            "Moon"
+            "Beauty",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -4055,10 +4061,10 @@
         ],
         "purviews": [
             "Beasts (Boars)",
+            "Stars",
             "Fortune",
             "Order",
-            "Prosperity",
-            "Stars"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -4074,11 +4080,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Stamina",
-            "Forge",
             "War",
-            "Water"
+            "Water",
+            "Epic Strength",
+            "Forge",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -4094,15 +4100,15 @@
             "Sage"
         ],
         "purviews": [
+            "Sun",
+            "Health",
             "Artistry (Musical Instruments)",
             "Artistry (Writing)",
-            "Beasts",
-            "Fertility",
             "Forge",
-            "Fortune",
-            "Health",
             "Order",
-            "Sun"
+            "Fortune",
+            "Beasts",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -4118,14 +4124,14 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Stamina",
-            "Artistry (Historical Fiction)",
-            "Order",
             "Passion (Loyalty)",
-            "Prosperity",
+            "War",
+            "Epic Stamina",
+            "Epic Strength",
+            "Artistry (Historical Fiction)",
             "Sky",
-            "War"
+            "Order",
+            "Prosperity"
         ],
         "notes": "",
         "book": "Hero"
@@ -4141,12 +4147,12 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Stamina",
-            "Deception",
-            "Health",
             "Journeys",
-            "Passion (Mercy)",
-            "Water"
+            "Water",
+            "Health",
+            "Deception",
+            "Epic Stamina",
+            "Passion (Mercy)"
         ],
         "notes": "",
         "book": "Hero"
@@ -4162,14 +4168,14 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts",
-            "Death",
+            "War",
             "Earth",
+            "Death",
             "Forge",
             "Health",
+            "Beasts",
             "Order",
-            "Prosperity",
-            "War"
+            "Prosperity"
         ],
         "notes": "",
         "book": "Hero"
@@ -4185,13 +4191,13 @@
             "Trickster"
         ],
         "purviews": [
-            "Epic Stamina",
             "Artistry (Poetry)",
             "Chaos",
+            "Water",
+            "Order",
             "Darkness",
             "Health",
-            "Order",
-            "Water"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -4221,11 +4227,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Stamina",
-            "Epic Strength",
+            "War",
             "Artistry (Animation)",
+            "Epic Strength",
             "Health",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "Hero"
@@ -4242,11 +4248,11 @@
         ],
         "purviews": [
             "Earth",
-            "Fertility",
             "Forge",
-            "Health",
             "Moon",
-            "Sky"
+            "Sky",
+            "Health",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -4262,15 +4268,15 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Strength",
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Artistry (Opera)",
-            "Beasts (Monkeys)",
-            "Chaos",
-            "Deception",
             "Journeys",
-            "War"
+            "Epic Dexterity",
+            "Chaos",
+            "War",
+            "Epic Stamina",
+            "Epic Strength",
+            "Deception",
+            "Beasts (Monkeys)",
+            "Artistry (Opera)"
         ],
         "notes": "",
         "book": "Hero"
@@ -4286,13 +4292,13 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Stamina",
-            "Artistry (Storytelling)",
-            "Fertility",
             "Fire",
+            "Prosperity",
             "Forge",
             "Health",
-            "Prosperity"
+            "Epic Stamina",
+            "Fertility",
+            "Artistry (Storytelling)"
         ],
         "notes": "",
         "book": "Hero"
@@ -4308,11 +4314,11 @@
             "Warrior"
         ],
         "purviews": [
+            "Epic Dexterity",
             "Beasts (Horses)",
             "Epic Strength",
-            "Epic Dexterity",
-            "Fortune",
-            "Sky"
+            "Sky",
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -4328,13 +4334,13 @@
             "Warrior"
         ],
         "purviews": [
-            "Epic Dexterity",
-            "Epic Strength",
             "Journeys",
-            "Order",
+            "Epic Dexterity",
+            "War",
             "Passion (Pride)",
-            "Prosperity",
-            "War"
+            "Epic Strength",
+            "Order",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -4351,13 +4357,13 @@
         ],
         "purviews": [
             "Artistry (Weaving)",
+            "Chaos",
+            "War",
             "Beasts (Bears)",
             "Beasts (Horses)",
-            "Chaos",
-            "Epic Stamina",
             "Epic Strength",
             "Passion (Bloodlust)",
-            "War"
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -4373,11 +4379,11 @@
             "Healer"
         ],
         "purviews": [
-            "Fertility",
-            "Fortune",
+            "Stars",
             "Health",
+            "Fertility",
             "Prosperity",
-            "Stars"
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -4394,10 +4400,10 @@
         ],
         "purviews": [
             "Death",
-            "Epic Stamina",
-            "Health",
             "Passion (Valor)",
-            "Stars"
+            "Stars",
+            "Health",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -4413,11 +4419,11 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Metalwork)",
             "Beasts (Cattle)",
             "Epic Strength",
-            "Fertility",
-            "Forge"
+            "Forge",
+            "Artistry (Metalwork)",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -4433,11 +4439,11 @@
             "Healer"
         ],
         "purviews": [
-            "Fortune",
-            "Fertility",
+            "Sun",
             "Health",
+            "Fertility",
             "Prosperity",
-            "Sun"
+            "Fortune"
         ],
         "notes": "",
         "book": ""
@@ -4453,14 +4459,14 @@
             "Warrior"
         ],
         "purviews": [
-            "Beast (Bull)",
             "Epic Dexterity",
             "Epic Strength",
-            "Fire",
-            "Fortune",
             "Order",
+            "Sky",
+            "Fortune",
+            "Fire",
             "Prosperity",
-            "Sky"
+            "Beast (Bull)"
         ],
         "notes": "",
         "book": ""
@@ -4476,11 +4482,11 @@
             "Liminal"
         ],
         "purviews": [
+            "Epic Dexterity",
             "Beasts (All)",
             "Earth",
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Wild"
+            "Wild",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -4496,11 +4502,11 @@
             "Leader"
         ],
         "purviews": [
+            "Passion (Love)",
             "Artistry (Dance)",
+            "Health",
             "Beauty",
             "Fire",
-            "Health",
-            "Passion (Love)",
             "Prosperity"
         ],
         "notes": "",
@@ -4517,12 +4523,12 @@
             "Sage"
         ],
         "purviews": [
-            "Darkness",
-            "Earth",
-            "Fortune",
             "Health",
-            "Order",
-            "Water"
+            "Earth",
+            "Water",
+            "Darkness",
+            "Fortune",
+            "Order"
         ],
         "notes": "",
         "book": ""
@@ -4541,10 +4547,10 @@
             "Artistry (Weaving)",
             "Artistry (Pottery)",
             "Earth",
-            "Epic Stamina",
-            "Fertility",
+            "Water",
             "Health",
-            "Water"
+            "Epic Stamina",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -4560,12 +4566,12 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (Sports)",
-            "Beauty",
-            "Epic Stamina",
+            "War",
             "Epic Strength",
             "Sky",
-            "War"
+            "Artistry (Sports)",
+            "Beauty",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -4581,9 +4587,9 @@
             "Judge"
         ],
         "purviews": [
-            "Earth",
             "Fertility",
-            "Prosperity"
+            "Prosperity",
+            "Earth"
         ],
         "notes": "Paired with Chicomecoatl",
         "book": ""
@@ -4599,9 +4605,9 @@
             "Leader"
         ],
         "purviews": [
-            "Beasts (Aquatic Animal)",
+            "Water",
             "Fertility",
-            "Water"
+            "Beasts (Aquatic Animal)"
         ],
         "notes": "",
         "book": ""
@@ -4617,10 +4623,10 @@
             "Sage"
         ],
         "purviews": [
-            "Fire",
-            "Forge",
             "Order",
-            "Prosperity"
+            "Fire",
+            "Prosperity",
+            "Forge"
         ],
         "notes": "",
         "book": ""
@@ -4636,9 +4642,9 @@
             "Judge"
         ],
         "purviews": [
-            "Earth",
             "Fertility",
-            "Prosperity"
+            "Prosperity",
+            "Earth"
         ],
         "notes": "Paired with Centeotl",
         "book": ""
@@ -4654,8 +4660,8 @@
             "Trickster"
         ],
         "purviews": [
-            "Chaos",
             "Epic Dexterity",
+            "Chaos",
             "Passion"
         ],
         "notes": "",
@@ -4673,12 +4679,12 @@
         ],
         "purviews": [
             "Beasts (Eagle)",
-            "Beasts (Hummingbird)",
+            "War",
             "Death",
+            "Beasts (Hummingbird)",
             "Epic Strength",
-            "Prosperity",
             "Sun",
-            "War"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -4695,11 +4701,11 @@
         ],
         "purviews": [
             "Beasts (all)",
-            "Darkness",
+            "War",
             "Death",
-            "Fertility",
             "Stars",
-            "War"
+            "Darkness",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -4715,11 +4721,11 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Bats)",
-            "Beasts (Owls)",
-            "Beasts (Spiders)",
-            "Darkness",
             "Death",
+            "Beasts (Owls)",
+            "Darkness",
+            "Beasts (Bats)",
+            "Beasts (Spiders)",
             "Passion (all)"
         ],
         "notes": "Paired with Mictlantecuhtli",
@@ -4736,11 +4742,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Bats)",
-            "Beasts (Owls)",
-            "Beasts (Spiders)",
-            "Darkness",
             "Death",
+            "Beasts (Owls)",
+            "Darkness",
+            "Beasts (Bats)",
+            "Beasts (Spiders)",
             "Passion (all)"
         ],
         "notes": "Paired with Mictecacihuatl",
@@ -4757,14 +4763,14 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Writing)",
-            "Artistry (Feathers)",
-            "Beasts (all)",
-            "Fertility",
             "Journeys",
+            "Beasts (all)",
+            "Artistry (Writing)",
+            "Stars",
             "Order",
             "Sky",
-            "Stars"
+            "Fertility",
+            "Artistry (Feathers)"
         ],
         "notes": "",
         "book": ""
@@ -4780,14 +4786,14 @@
             "Leader"
         ],
         "purviews": [
+            "Chaos",
+            "War",
+            "Earth",
             "Beasts (Jaguar)",
             "Beasts (Turkey)",
-            "Chaos",
             "Darkness",
-            "Deception",
-            "Earth",
             "Fortune",
-            "War"
+            "Deception"
         ],
         "notes": "",
         "book": ""
@@ -4803,12 +4809,12 @@
             "Hunter"
         ],
         "purviews": [
-            "Death",
             "Earth",
-            "Fertility",
+            "Death",
             "Frost",
+            "Sky",
             "Health",
-            "Sky"
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -4824,10 +4830,10 @@
             "Hunter"
         ],
         "purviews": [
+            "War",
             "Fertility",
             "Forge",
-            "Health",
-            "War"
+            "Health"
         ],
         "notes": "",
         "book": ""
@@ -4844,10 +4850,10 @@
         ],
         "purviews": [
             "Artistry (all)",
-            "Beauty",
             "Fortune",
-            "Passion (all)",
-            "Prosperity"
+            "Beauty",
+            "Prosperity",
+            "Passion (all)"
         ],
         "notes": "Twin to Xochiquetzal",
         "book": ""
@@ -4863,13 +4869,13 @@
             "Lover"
         ],
         "purviews": [
-            "Artistry (all)",
-            "Beauty",
             "Epic Dexterity",
-            "Fertility",
+            "Artistry (all)",
             "Fortune",
-            "Passion (all)",
-            "Prosperity"
+            "Beauty",
+            "Fertility",
+            "Prosperity",
+            "Passion (all)"
         ],
         "notes": "Twin to Xochipilli",
         "book": ""
@@ -4885,12 +4891,12 @@
             "Liminal"
         ],
         "purviews": [
-            "Beasts (Dogs)",
+            "Journeys",
             "Chaos",
-            "Darkness",
-            "Death",
             "Earth",
-            "Journeys"
+            "Death",
+            "Beasts (Dogs)",
+            "Darkness"
         ],
         "notes": "Does not have own entry, see Quetzalcoatl",
         "book": ""
@@ -4906,10 +4912,10 @@
             "Creator"
         ],
         "purviews": [
-            "Beauty",
-            "Fertility",
             "Passion (Desire)",
             "Passion (Love)",
+            "Beauty",
+            "Fertility",
             "Prosperity"
         ],
         "notes": "",
@@ -4928,8 +4934,8 @@
         "purviews": [
             "Artistry",
             "Epic Dexterity",
-            "Health",
-            "Sun"
+            "Sun",
+            "Health"
         ],
         "notes": "",
         "book": "Hero"
@@ -4946,12 +4952,12 @@
         ],
         "purviews": [
             "Chaos",
-            "Fertility",
-            "Order",
-            "Passion (Rage)",
-            "Passion (Valor)",
+            "War",
             "Prosperity",
-            "War"
+            "Passion (Valor)",
+            "Order",
+            "Fertility",
+            "Passion (Rage)"
         ],
         "notes": "",
         "book": "Hero"
@@ -4967,11 +4973,11 @@
             "Healer"
         ],
         "purviews": [
-            "Beasts",
             "Epic Dexterity",
-            "Health",
+            "Wild",
             "Moon",
-            "Wild"
+            "Health",
+            "Beasts"
         ],
         "notes": "",
         "book": "Hero"
@@ -4988,10 +4994,10 @@
         ],
         "purviews": [
             "Artistry (Weaving)",
-            "Beasts (Owl)",
             "Epic Dexterity",
+            "War",
             "Order",
-            "War"
+            "Beasts (Owl)"
         ],
         "notes": "",
         "book": "Hero"
@@ -5007,10 +5013,10 @@
             "Judge"
         ],
         "purviews": [
-            "Earth",
+            "Order",
             "Epic Stamina",
             "Fertility",
-            "Order"
+            "Earth"
         ],
         "notes": "",
         "book": "Hero"
@@ -5026,12 +5032,12 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Theatre)",
             "Chaos",
-            "Deception",
-            "Fertility",
             "Passion (Ecstasy)",
-            "Wild"
+            "Wild",
+            "Artistry (Theatre)",
+            "Deception",
+            "Fertility"
         ],
         "notes": "",
         "book": "Hero"
@@ -5047,10 +5053,10 @@
             "Liminal"
         ],
         "purviews": [
-            "Darkness",
             "Death",
-            "Earth",
-            "Prosperity"
+            "Darkness",
+            "Prosperity",
+            "Earth"
         ],
         "notes": "",
         "book": "Hero"
@@ -5066,12 +5072,12 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
+            "Stars",
             "Beasts (Dogs)",
+            "Moon",
             "Darkness",
             "Fortune",
-            "Journeys",
-            "Moon",
-            "Stars",
             "Wild"
         ],
         "notes": "",
@@ -5089,9 +5095,9 @@
         ],
         "purviews": [
             "Epic Stamina",
-            "Fire",
+            "Fortune",
             "Forge",
-            "Fortune"
+            "Fire"
         ],
         "notes": "",
         "book": "Hero"
@@ -5107,11 +5113,11 @@
             "Leader"
         ],
         "purviews": [
+            "Passion (Fidelity)",
+            "Order",
+            "Health",
             "Beauty",
             "Fertility",
-            "Health",
-            "Order",
-            "Passion (Fidelity)",
             "Prosperity"
         ],
         "notes": "",
@@ -5142,10 +5148,10 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
+            "Epic Dexterity",
             "Death",
             "Deception",
-            "Epic Dexterity",
-            "Journeys",
             "Prosperity"
         ],
         "notes": "",
@@ -5162,10 +5168,10 @@
             "Judge"
         ],
         "purviews": [
-            "Fire",
-            "Fortune",
             "Order",
-            "Prosperity"
+            "Fire",
+            "Prosperity",
+            "Fortune"
         ],
         "notes": "",
         "book": "Hero"
@@ -5198,10 +5204,10 @@
             "Earth-Shaker"
         ],
         "purviews": [
-            "Beasts (Horse)",
-            "Epic Strength",
+            "Water",
             "Earth",
-            "Water"
+            "Beasts (Horse)",
+            "Epic Strength"
         ],
         "notes": "",
         "book": "Hero"
@@ -5217,12 +5223,12 @@
             "Trickster"
         ],
         "purviews": [
-            "Deception",
-            "Epic Strength",
             "Epic Stamina",
+            "Epic Strength",
+            "Sky",
             "Fortune",
-            "Order",
-            "Sky"
+            "Deception",
+            "Order"
         ],
         "notes": "",
         "book": "Hero"
@@ -5239,10 +5245,10 @@
         ],
         "purviews": [
             "Beasts (Birds)",
-            "Beauty",
-            "Deception",
+            "Passion (Love)",
             "Moon",
-            "Passion (Love)"
+            "Deception",
+            "Beauty"
         ],
         "notes": "",
         "book": ""
@@ -5259,10 +5265,10 @@
         ],
         "purviews": [
             "Artistry (Poetry)",
-            "Fertility",
             "Fire",
             "Forge",
-            "Health"
+            "Health",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -5278,9 +5284,9 @@
             "Judge"
         ],
         "purviews": [
+            "Water",
             "Fertility",
-            "Health",
-            "Water"
+            "Health"
         ],
         "notes": "",
         "book": ""
@@ -5296,9 +5302,9 @@
             "Trickster"
         ],
         "purviews": [
-            "Darkness",
             "Death",
             "Journeys",
+            "Darkness",
             "Sky"
         ],
         "notes": "",
@@ -5315,10 +5321,10 @@
             "Leader"
         ],
         "purviews": [
-            "Earth",
-            "Fertility",
             "Order",
-            "Prosperity"
+            "Fertility",
+            "Prosperity",
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -5334,9 +5340,9 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (Brewing)",
-            "Epic Stamina",
             "Forge",
+            "Epic Stamina",
+            "Artistry (Brewing)",
             "Health"
         ],
         "notes": "",
@@ -5353,14 +5359,14 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (All)",
             "Epic Dexterity",
+            "War",
+            "Artistry (All)",
             "Epic Strength",
             "Forge",
             "Health",
             "Order",
-            "Prosperity",
-            "War"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -5376,11 +5382,11 @@
             "Trickster"
         ],
         "purviews": [
-            "Deception",
             "Journeys",
-            "Prosperity",
+            "Water",
             "Stars",
-            "Water"
+            "Deception",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -5396,10 +5402,11 @@
             "Liminal"
         ],
         "purviews": [
-            "Deception",
+            "Passion (Focus)",
             "Earath",
+            "Earth",
             "Fortune",
-            "Passion (Focus)"
+            "Deception"
         ],
         "notes": "",
         "book": ""
@@ -5433,9 +5440,9 @@
             "Warrior"
         ],
         "purviews": [
-            "Artistry (Oration)",
             "Artistry (Poetry)",
             "Epic Strength",
+            "Artistry (Oration)",
             "Fortune",
             "Wild"
         ],
@@ -5453,12 +5460,12 @@
             "Sage"
         ],
         "purviews": [
-            "Epic Stamina",
-            "Epic Strength",
+            "War",
             "Fertility",
+            "Epic Strength",
             "Forge",
-            "Prosperity",
-            "War"
+            "Epic Stamina",
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -5474,15 +5481,15 @@
             "Sage"
         ],
         "purviews": [
-            "Beasts (Crows)",
-            "Beasts (Cattle)",
-            "Beasts (Horses)",
-            "Chaos",
-            "Death",
             "Epic Dexterity",
+            "Beasts (Cattle)",
+            "Chaos",
+            "War",
+            "Death",
+            "Beasts (Horses)",
+            "Beasts (Crows)",
             "Fortune",
-            "Prosperity",
-            "War"
+            "Prosperity"
         ],
         "notes": "",
         "book": ""
@@ -5498,11 +5505,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beauty",
-            "Health",
-            "Water",
             "War",
-            "Wild"
+            "Water",
+            "Health",
+            "Wild",
+            "Beauty"
         ],
         "notes": "",
         "book": ""
@@ -5518,10 +5525,10 @@
             "Warrior"
         ],
         "purviews": [
-            "Earth",
-            "Fortune",
             "Prosperity",
-            "War"
+            "Fortune",
+            "War",
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -5537,12 +5544,12 @@
             "Liminal"
         ],
         "purviews": [
-            "Artistry (Innovation)",
+            "Forge",
+            "Passion (Devotion)",
+            "Health",
             "Beauty",
             "Fire",
-            "Forge",
-            "Health",
-            "Passion (Devotion)"
+            "Artistry (Innovation)"
         ],
         "notes": "",
         "book": ""
@@ -5559,8 +5566,8 @@
         ],
         "purviews": [
             "Beauty",
-            "Epic Strength",
             "Fertility",
+            "Epic Strength",
             "Health"
         ],
         "notes": "",
@@ -5577,9 +5584,9 @@
             "Leader"
         ],
         "purviews": [
+            "Epic Stamina",
             "Beauty",
             "Epic Dexterity",
-            "Epic Stamina",
             "Sun"
         ],
         "notes": "",
@@ -5597,9 +5604,9 @@
         ],
         "purviews": [
             "Beasts (Bovines)",
-            "Fertility",
-            "Fortune",
             "Moon",
+            "Fortune",
+            "Fertility",
             "Prosperity"
         ],
         "notes": "",
@@ -5635,9 +5642,9 @@
         ],
         "purviews": [
             "Death",
-            "Epic Strength",
             "Journeys",
-            "Order"
+            "Order",
+            "Epic Strength"
         ],
         "notes": "",
         "book": ""
@@ -5653,13 +5660,13 @@
             "Sage"
         ],
         "purviews": [
-            "Artistry (Song)",
-            "Death",
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Epic Strength",
             "Journeys",
-            "War"
+            "Artistry (Song)",
+            "Epic Dexterity",
+            "War",
+            "Death",
+            "Epic Strength",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -5675,11 +5682,11 @@
             "Warrior"
         ],
         "purviews": [
-            "Beasts (Horses)",
-            "Fertility",
-            "Health",
             "Sky Stars",
-            "Water"
+            "Water",
+            "Beasts (Horses)",
+            "Health",
+            "Fertility"
         ],
         "notes": "",
         "book": ""
@@ -5695,11 +5702,11 @@
             "Judge"
         ],
         "purviews": [
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Epic Strength",
             "Journeys",
-            "Stars"
+            "Epic Dexterity",
+            "Stars",
+            "Epic Strength",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": ""
@@ -5715,9 +5722,9 @@
             "Trickster"
         ],
         "purviews": [
+            "Epic Dexterity",
             "Chaos",
             "Death",
-            "Epic Dexterity",
             "Sky",
             "Wild"
         ],
@@ -5735,14 +5742,14 @@
             "Warrior"
         ],
         "purviews": [
-            "Berasts (All)",
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Epic Strength",
-            "Fertility",
-            "Health",
             "Journeys",
-            "War"
+            "Epic Dexterity",
+            "War",
+            "Epic Strength",
+            "Health",
+            "Epic Stamina",
+            "Fertility",
+            "Berasts (All)"
         ],
         "notes": "",
         "book": ""
@@ -5758,10 +5765,10 @@
             "Healer"
         ],
         "purviews": [
+            "Wild",
             "Beauty",
-            "Earth",
             "Epic Stamina",
-            "Wild"
+            "Earth"
         ],
         "notes": "",
         "book": ""
@@ -5777,9 +5784,9 @@
             "Shepard"
         ],
         "purviews": [
-            "Beasts (Birds)",
-            "Epic Dexterity",
             "Journeys",
+            "Epic Dexterity",
+            "Beasts (Birds)",
             "Stars"
         ],
         "notes": "Tied to Coromo, Racuno, and Sabaco",
@@ -5796,11 +5803,11 @@
             "Sage"
         ],
         "purviews": [
+            "Journeys",
+            "Stars",
             "Forge",
             "Fortune",
-            "Journeys",
-            "Order",
-            "Stars"
+            "Order"
         ],
         "notes": "",
         "book": "God"
@@ -5816,10 +5823,10 @@
             "Warrior"
         ],
         "purviews": [
+            "War",
             "Fire",
-            "Forge",
             "Passion (Anger)",
-            "War"
+            "Forge"
         ],
         "notes": "",
         "book": "God"
@@ -5854,8 +5861,8 @@
             "Healer"
         ],
         "purviews": [
-            "Fertility",
             "Sky",
+            "Fertility",
             "Water"
         ],
         "notes": "",
@@ -5874,8 +5881,8 @@
         "purviews": [
             "Beauty",
             "Fertility",
-            "Fortune",
-            "Passion (Love)"
+            "Passion (Love)",
+            "Fortune"
         ],
         "notes": "",
         "book": "God"
@@ -5891,9 +5898,9 @@
             "Shepard"
         ],
         "purviews": [
-            "Beasts (Birds)",
-            "Epic Dexterity",
             "Journeys",
+            "Epic Dexterity",
+            "Beasts (Birds)",
             "Stars"
         ],
         "notes": "Tied to Achinao, Racuno, and Sobaco",
@@ -5910,14 +5917,14 @@
             "Trickster"
         ],
         "purviews": [
-            "Beasts (Turtles)",
             "Chaos",
-            "Deception",
             "Earth",
-            "Fire",
+            "Water",
+            "Beasts (Turtles)",
             "Fortune",
-            "Prosperity",
-            "Water"
+            "Deception",
+            "Fire",
+            "Prosperity"
         ],
         "notes": "",
         "book": "God"
@@ -5934,11 +5941,11 @@
         ],
         "purviews": [
             "Artistry",
-            "Darkness",
             "Earth",
-            "Epic Stamina",
             "Epic Strength",
-            "Forge"
+            "Forge",
+            "Darkness",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "God"
@@ -5955,11 +5962,11 @@
         ],
         "purviews": [
             "Beasts (Serpents)",
-            "Beauty",
             "Passion (Love)",
-            "Prosperity",
+            "Water",
             "Sky",
-            "Water"
+            "Beauty",
+            "Prosperity"
         ],
         "notes": "",
         "book": "God"
@@ -5994,11 +6001,11 @@
             "Judge"
         ],
         "purviews": [
-            "Beasts (Bats)",
-            "Darkness",
             "Death",
-            "Order",
-            "Sky"
+            "Sky",
+            "Darkness",
+            "Beasts (Bats)",
+            "Order"
         ],
         "notes": "",
         "book": "God"
@@ -6015,8 +6022,8 @@
         ],
         "purviews": [
             "Deception",
-            "Fertility",
             "Order",
+            "Fertility",
             "Sky"
         ],
         "notes": "",
@@ -6033,15 +6040,15 @@
             "Warrior"
         ],
         "purviews": [
-            "Darkness",
-            "Epic Dexterity",
-            "Epic Stamina",
-            "Epic Strength",
             "Journeys",
-            "Moon",
+            "Epic Dexterity",
             "Stars",
+            "Epic Strength",
+            "Moon",
+            "Darkness",
             "Warrior",
-            "Wild"
+            "Wild",
+            "Epic Stamina"
         ],
         "notes": "",
         "book": "God"
@@ -6057,11 +6064,11 @@
             "Judge"
         ],
         "purviews": [
-            "Beasts (dogs)",
-            "Darkness",
             "Death",
-            "Order",
-            "Wild"
+            "Darkness",
+            "Beasts (dogs)",
+            "Wild",
+            "Order"
         ],
         "notes": "",
         "book": "God"
@@ -6077,9 +6084,9 @@
             "Shepard"
         ],
         "purviews": [
-            "Beasts (Birds)",
-            "Epic Dexterity",
             "Journeys",
+            "Epic Dexterity",
+            "Beasts (Birds)",
             "Stars"
         ],
         "notes": "Tied to Achinao, Coromo, and Sobaco",
@@ -6096,9 +6103,9 @@
             "Shepard"
         ],
         "purviews": [
-            "Beasts (Birds)",
-            "Epic Dexterity",
             "Journeys",
+            "Epic Dexterity",
+            "Beasts (Birds)",
             "Stars"
         ],
         "notes": "Tied to Achinao, Coromo, and Racuno",
@@ -6117,13 +6124,13 @@
         "purviews": [
             "Artistry",
             "Earth",
-            "Fertility",
-            "Forge",
-            "Fortune",
-            "Order",
-            "Prosperity",
             "Water",
-            "Wild"
+            "Forge",
+            "Order",
+            "Fortune",
+            "Wild",
+            "Fertility",
+            "Prosperity"
         ],
         "notes": "",
         "book": "God"
