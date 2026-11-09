@@ -1,0 +1,6131 @@
+[
+    {
+        "name": "Baldr",
+        "title": "God of Love, Beauty, and Peace",
+        "pantheon": "Æsir",
+        "aliases": "Baldur",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Passion (Love)",
+            "Passion (Peace)",
+            "Health",
+            "Epic Stamina",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Bragi",
+        "title": "God of Music and Poetry",
+        "pantheon": "Æsir",
+        "aliases": "Bragi Boddason, Bragi Högnason",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Storytelling)",
+            "Artistry (Poetry)",
+            "Artistry (Song)",
+            "Epic Dexterity",
+            "Fortune",
+            "Passion (Joy)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Freya",
+        "title": "Goddess of Fertility, Love, Lust, and War",
+        "pantheon": "Æsir",
+        "aliases": "Frau, Freyja",
+        "callings": [
+            "Lover",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Beauty",
+            "Death",
+            "Epic Stamina",
+            "Fertility",
+            "Fortune",
+            "Passion (Love)",
+            "Passion (Lust)",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Freyr",
+        "title": "God of Fertility and Prosperity",
+        "pantheon": "Æsir",
+        "aliases": "Frey",
+        "callings": [
+            "Lover",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beauty",
+            "Fertility",
+            "Order",
+            "War",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Frigg",
+        "title": "Goddess of Marriage and Destiny",
+        "pantheon": "Æsir",
+        "aliases": "Frigga, Freja, Frige",
+        "callings": [
+            "Sage",
+            "Guardian",
+            "Lover"
+        ],
+        "purviews": [
+            "Beasts (Falcon)",
+            "Fortune",
+            "Order",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Heimdall",
+        "title": "God of Perception",
+        "pantheon": "Æsir",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Hunter"
+        ],
+        "purviews": [
+            "Artistry (Horns)",
+            "Beauty",
+            "Epic Stamina",
+            "Journeys"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hel",
+        "title": "Goddess of the Realm of the Dead",
+        "pantheon": "Æsir",
+        "aliases": "Hela, Hell",
+        "callings": [
+            "Liminal",
+            "Guardian",
+            "Judge"
+        ],
+        "purviews": [
+            "Death",
+            "Frost",
+            "Forge",
+            "Passion (Fear)",
+            "Passion (Disgust)",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Loki",
+        "title": "God of Trickery and Fire",
+        "pantheon": "Æsir",
+        "aliases": "Logi",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Chaos",
+            "Fire",
+            "Epic Strength"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Njörðr",
+        "title": "God of the Sea and the Winds",
+        "pantheon": "Æsir",
+        "aliases": "Njordr, Njord, Njor, Niord",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Liminal"
+        ],
+        "purviews": [
+            "Fertility",
+            "Fire",
+            "Journeys",
+            "Prosperity",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Odin",
+        "title": "God of Wisdom, the Dead, and Magic",
+        "pantheon": "Æsir",
+        "aliases": "Alfaðir, Harbard, Vak, Valtaid, Wodun, Wotan, Ygg",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Fortune",
+            "Journeys",
+            "War",
+            "Artistry (Poetry)",
+            "Death",
+            "Deception",
+            "Epic Stamina"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sif",
+        "title": "Goddess of the Harvest",
+        "pantheon": "Æsir",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Earth",
+            "Fertility",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Skaði",
+        "title": "Goddess of Winter",
+        "pantheon": "Æsir",
+        "aliases": "Skadi, Skaldi",
+        "callings": [
+            "Hunter",
+            "Warrior",
+            "Judge"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Dexterity",
+            "Journeys",
+            "Order",
+            "Frost"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Thor",
+        "title": "God of Thunder, Rain, and Crops",
+        "pantheon": "Æsir",
+        "aliases": "Donar, Thundr",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Stamina",
+            "Fertility",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tyr",
+        "title": "God of Courage and Justice",
+        "pantheon": "Æsir",
+        "aliases": "N/A",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Order",
+            "Passion (Courage)",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Enki",
+        "title": "Lord of the Primordial Waters, Keeper of the Me",
+        "pantheon": "Annuna",
+        "aliases": "Ea, Enkig, Nudimmud, Nissiku; 40",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Pottery)",
+            "Artistry (Sculpture)",
+            "Beasts (Fish)",
+            "Beasts (Goat)",
+            "Beasts (Turtle)",
+            "Fertility",
+            "Forge",
+            "Fortune",
+            "Prosperity",
+            "Stars",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Enlil",
+        "title": "The Lord of Wind and Destinies, Decreer of Fates",
+        "pantheon": "Annuna",
+        "aliases": "Ellil, Illinos, Nunamnir; 50",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Deception",
+            "Forge",
+            "Fortune",
+            "Order",
+            "Passion (Benevolence)",
+            "Passion (Wrath)",
+            "Prosperity",
+            "Sky",
+            "Stars"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Ereshkigal",
+        "title": "Lady of the Great Earth Queen of the Underworld",
+        "pantheon": "Annuna",
+        "aliases": "Erec-ki-galla, Irkalla",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "(Tyrant)"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Darkness",
+            "Death",
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Health"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Ishtar",
+        "title": "Queen of Heaven, Goddess of Love and War",
+        "pantheon": "Annuna",
+        "aliases": "Ashtar, Astart (Canaanite), Astarte (Greek), Eshtar, Inana, Inanna; 15",
+        "callings": [
+            "Lover",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Lion)",
+            "Beauty",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Fertility",
+            "Passion (Anger)",
+            "Passion (Love)",
+            "Passion (Lust)",
+            "War"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Marduk",
+        "title": "King of the Gods, The Lord of Gods",
+        "pantheon": "Annuna",
+        "aliases": "Mardochaios, Marodak, Martuk, Merodach, Merodak",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Dragon)",
+            "Beasts (Snake)",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Fire",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Nanshe",
+        "title": "Protector of Orphans, Goddess of Prophecy and Fishin",
+        "pantheon": "Annuna",
+        "aliases": "Nance",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Judge"
+        ],
+        "purviews": [
+            "Artistry (Music)",
+            "Beasts (Birds)",
+            "Beasts (Fish)",
+            "Darkness",
+            "Health",
+            "Order",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Nergal",
+        "title": "The Lord of Killing and Plague, Commander of Demons",
+        "pantheon": "Annuna",
+        "aliases": "Erra, Nerigal",
+        "callings": [
+            "(Destroyer)",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Bull)",
+            "Beasts (Lion)",
+            "Chaos",
+            "Death",
+            "Epic Stamina",
+            "Epic Strength",
+            "Fire",
+            "Health",
+            "Passion (Wrath)",
+            "Sun",
+            "War"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Ninhursag",
+        "title": "Lady of the Sacred Mountain, the Mother of Mankind",
+        "pantheon": "Annuna",
+        "aliases": "Aruru, Belet-ili, Beletili, Dingirmah, Mami, Ninhursanga, Ninmah, Nintu, Nintud, Nintur",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Forge",
+            "Health"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Ninlil",
+        "title": "Queen-Mother of the Gods, Foremost of the Ladies",
+        "pantheon": "Annuna",
+        "aliases": "Mulitta, Mullitu, Mullissu, Mylitta",
+        "callings": [
+            "Leader",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beauty",
+            "Epic Stamina",
+            "Fortune",
+            "Health",
+            "Order",
+            "Passion (Terror)",
+            "Passion (Wisdom)",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Ninurta",
+        "title": "Champion of the Gods, God of Healing and Battle",
+        "pantheon": "Annuna",
+        "aliases": "Ningirsu, Nisroch",
+        "callings": [
+            "Healer",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Bird)",
+            "Beasts (Lion Scorpion)",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Health",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Shamash",
+        "title": "The All-Seeing, God of the Sun, Truth, and Justice",
+        "pantheon": "Annuna",
+        "aliases": "Shamshi, Shamshu, Utu; 20",
+        "callings": [
+            "Liminal",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Writing)",
+            "Death",
+            "Fertility",
+            "Journeys",
+            "Order",
+            "Sun"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Sin",
+        "title": "Lord of Wisdom, God of the Moon",
+        "pantheon": "Annuna",
+        "aliases": "Dilimbabbar, Nanna, Su'en, Suen; 30",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Cattle)",
+            "Fertility",
+            "Fortune",
+            "Journeys",
+            "Moon",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tammuz",
+        "title": "The Dying God, Sacred Husband and Shepherd, Lord of the Seasons",
+        "pantheon": "Annuna",
+        "aliases": "Ama-ushumgal-ana, Damu, Dumuzi, Dumuzid",
+        "callings": [
+            "Healer",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry (Food)",
+            "Beasts (Livestock)",
+            "Darkness",
+            "Death",
+            "Epic Stamina",
+            "Fertility",
+            "Health",
+            "Passion (Exhaustion)",
+            "Passion (Fear)",
+            "Passion (Grief)",
+            "Passion (Hope)"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Chasca",
+        "title": "Goddess of Dawn, Twilight, and Venus",
+        "pantheon": "Apu",
+        "aliases": "The Disheveled One",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Passion",
+            "Sky",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Contraya",
+        "title": "God of Fertility and Trickery",
+        "pantheon": "Apu",
+        "aliases": "Cuniraya, Viracocha",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Fertility",
+            "Moon",
+            "Passion"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Illapa",
+        "title": "God of Thunder",
+        "pantheon": "Apu",
+        "aliases": "Apu Illapu, Ilyap'a Katoylla",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Strength",
+            "Sky",
+            "War",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Inti",
+        "title": "God of the Sun, and Ruler of the Apu",
+        "pantheon": "Apu",
+        "aliases": "Apu Inti, Churi Inti, Inti Huaoqui",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Fertility",
+            "Fire",
+            "Order",
+            "Sun",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Kuychi",
+        "title": "The Rainbow",
+        "pantheon": "Apu",
+        "aliases": "Coichi, Cuichi, K'uycha, K'uychi, K'uyuchiy",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Fortune",
+            "Order",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mama Cocha",
+        "title": "Goddess of the Sea",
+        "pantheon": "Apu",
+        "aliases": "Mother of Doves, Mama Qucha, Sea Mother, Urxayhuachac",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beast (Aquatic Creatures)",
+            "Health",
+            "Journeys (Water)",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mama Killa",
+        "title": "Goddess of the Moon",
+        "pantheon": "Apu",
+        "aliases": "Mother Moon, Mama Quilla",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Epic Stamina",
+            "Fertility",
+            "Health",
+            "Moon"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Pachacamac",
+        "title": "Coastal Creator God",
+        "pantheon": "Apu",
+        "aliases": "Pacha Kamaq, Pachakamaq",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beast (All)",
+            "Earth",
+            "Epic Strength",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Pachamama",
+        "title": "Goddess of Nature",
+        "pantheon": "Apu",
+        "aliases": "Mother Earth, Mama Pacha, Mama Sara, Queen Pachamama",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beast (Serpents)",
+            "Earth",
+            "Feritility",
+            "Fortune",
+            "War",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Supay",
+        "title": "God of the Underworld",
+        "pantheon": "Apu",
+        "aliases": "Diablo",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Trickster"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Deception",
+            "Earth",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Vichama",
+        "title": "God of Death",
+        "pantheon": "Apu",
+        "aliases": "Villama",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Judge"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Stamina",
+            "Epic Strength",
+            "Health",
+            "Journeys"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Pele",
+        "title": "Hawai'ian Goddes of Volcanoes",
+        "pantheon": "Atua",
+        "aliases": "N/A",
+        "callings": [
+            "Destroyer",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Beauty",
+            "Fire",
+            "Journeys",
+            "Passion"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Rehua",
+        "title": "The Heavenly Star",
+        "pantheon": "Atua",
+        "aliases": "N/A",
+        "callings": [
+            "Healer",
+            "Judge",
+            "Primeval"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Fire",
+            "Health",
+            "Order",
+            "Stars"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Rongomātāne",
+        "title": "War God of Cultivated Crops",
+        "pantheon": "Atua",
+        "aliases": "Lono (Hawai’i), Ono (Marquesan), Ro’o-te-ro’oro’o (Tahiti)",
+        "callings": [
+            "Healer",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Strength",
+            "Fertility",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tamanuiterā",
+        "title": "The Sun God",
+        "pantheon": "Atua",
+        "aliases": "Lā (Sāmoa), Laa (Tonga), Rā, Ra’a (Tahiti)",
+        "callings": [
+            "Judge",
+            "Liminal",
+            "Primeval"
+        ],
+        "purviews": [
+            "Beasts (Woodpecker)",
+            "Order",
+            "Sky",
+            "Sun"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tānemahuta",
+        "title": "God of Light",
+        "pantheon": "Atua",
+        "aliases": "Kāne (Hawai’ian), Tāne",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Primeval"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Beauty",
+            "Epic Strength",
+            "Forge",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tangaroa",
+        "title": "God of the Sea and Its Ugly Denizens",
+        "pantheon": "Atua",
+        "aliases": "Kanaloa (Hawai’ian), Ta’aroa (Tahitian), Tagaloa (Sāmoan and Tongan), Takaroa (Tuamotu)",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Primeval"
+        ],
+        "purviews": [
+            "Beasts (Sea Creatures)",
+            "Fertility",
+            "Fire",
+            "Forge",
+            "Moon",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tāwhirimatea",
+        "title": "The Storm Father",
+        "pantheon": "Atua",
+        "aliases": "Tāwhiri",
+        "callings": [
+            "Destroyer",
+            "Liminal",
+            "Primeval"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Epic Strength",
+            "Passion (Rage)",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Tūmatauenga",
+        "title": "War God of the Angry Face",
+        "pantheon": "Atua",
+        "aliases": "Kū (Hawai’ian), Tū, Tū-kanguha, Tū-kariri",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts",
+            "Epic Stamina",
+            "Epic Strength",
+            "Fertility",
+            "War"
+        ],
+        "notes": "",
+        "book": "Demigod"
+    },
+    {
+        "name": "Adlaw",
+        "title": "The Sun",
+        "pantheon": "Balahala",
+        "aliases": "God of the Sun",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Lover"
+        ],
+        "purviews": [
+            "Journeys",
+            "Sky",
+            "Sun",
+            "Stars",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Amihan",
+        "title": "The Cool Northeast Wind",
+        "pantheon": "Balahala",
+        "aliases": "The Northeast Monsoon, The Trade Winds",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Journeys",
+            "Passion",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Banwanun",
+        "title": "Lord of Hunting and Forests",
+        "pantheon": "Balahala",
+        "aliases": "God of the Forest, Father of Hunting",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts",
+            "Earth",
+            "Healtrh",
+            "Journeys",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Barangaw",
+        "title": "The Rainbow of Victory",
+        "pantheon": "Balahala",
+        "aliases": "Varangao, Barangao, the Rainbow",
+        "callings": [
+            "Leader",
+            "Lover",
+            "Liminal"
+        ],
+        "purviews": [
+            "Artistry",
+            "Beauty",
+            "Epic Dexterity",
+            "Fortune",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Bulan",
+        "title": "The Moon",
+        "pantheon": "Balahala",
+        "aliases": "Goddess of the Moon",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry",
+            "Beasts",
+            "Beauty",
+            "Darkness",
+            "Fortune",
+            "Frost",
+            "Moon",
+            "Stars",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Habagat",
+        "title": "The Hot Southwest Wind",
+        "pantheon": "Balahala",
+        "aliases": "God of Wind and Rain, the Angry God, the Monsoon",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Stamina",
+            "Order",
+            "Sky",
+            "War",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Inaginid",
+        "title": "Deity of War",
+        "pantheon": "Balahala",
+        "aliases": "Ynaguinid, War Mother, Serpent Goddess, One of the War Gods Three",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Chaos",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Forge",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Lalahon",
+        "title": "She Who Lives Within Kanlaon",
+        "pantheon": "Balahala",
+        "aliases": "Malaon, Laon, Raom, Canlaon",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Earth",
+            "Fertility",
+            "Fire",
+            "Fortune",
+            "Health",
+            "Order",
+            "Prosperity",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Layang Sukla",
+        "title": "Goddess of Beauty",
+        "pantheon": "Balahala",
+        "aliases": "Sukla, Deity of Love",
+        "callings": [
+            "Lover",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry",
+            "Beauty",
+            "Deception",
+            "Fortune",
+            "Passion",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mawayen",
+        "title": "Ferry of Deceased Souls",
+        "pantheon": "Balahala",
+        "aliases": "Maguayen, Magwayen",
+        "callings": [
+            "Healer",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Fortune",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Munsad Buralakaw",
+        "title": "He Who Has Power Over Men",
+        "pantheon": "Balahala",
+        "aliases": "God of Politics and Civilization, Patron of Warriors and Heroes",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Epic Strength",
+            "Journeys",
+            "Order",
+            "Passion",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Pandaki",
+        "title": "The Saviour of Souls",
+        "pantheon": "Balahala",
+        "aliases": "Pandaque, Deliverer, Si Dapa's Spokesman",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Death",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Health",
+            "Journeys"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sidapa",
+        "title": "The One Upon Madjaas",
+        "pantheon": "Balahala",
+        "aliases": "Saripad, Sri Dapa, Salipada, Si Dapa",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Healer"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Earth",
+            "Epic Stamina",
+            "Frost",
+            "Health",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Belobog",
+        "title": "The White God",
+        "pantheon": "Bogovi",
+        "aliases": "Belun, Bialun, Bielebog",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Judge"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Fortune",
+            "Health",
+            "Journeys",
+            "Order",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Chernobog",
+        "title": "The Black God",
+        "pantheon": "Bogovi",
+        "aliases": "Chernabog, Czernobog, Zcerneboch ",
+        "callings": [
+            "(Adversary)",
+            "Judge",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Darkness",
+            "Deception",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Dazhbog",
+        "title": "The Fire of the Sky",
+        "pantheon": "Bogovi",
+        "aliases": "Dajbog, Dažbog, Daždbog",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Wolf)",
+            "Epic Strength",
+            "Epic Stamina",
+            "Fire Forge",
+            "Journeys",
+            "Sky",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Jarilo",
+        "title": "The Bright Sun",
+        "pantheon": "Bogovi",
+        "aliases": "Iarilo, Iarovit, Gerovit, Yarilo",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Beasts (Deer)",
+            "Beasts (Horses)",
+            "Beasts (Rams)",
+            "Beauty",
+            "Earth",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Feritlity",
+            "Fire",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mokosh",
+        "title": "The Great Mother",
+        "pantheon": "Bogovi",
+        "aliases": "Makosh, Mokoš, Ognyena",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Artistry (Spinning)",
+            "Artistry (Weaving)",
+            "Beasts (Swans)",
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Fortune",
+            "Health",
+            "Order",
+            "Prosperity",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Morena",
+        "title": "The White Death",
+        "pantheon": "Bogovi",
+        "aliases": "Kyselica, Marena, Marzanna, Morana",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Fire",
+            "Frost",
+            "Water",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Perun",
+        "title": "The Great Protector",
+        "pantheon": "Bogovi",
+        "aliases": "Perkūnas, Perkwunos",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Eagle)",
+            "Beasts (Horse)",
+            "Epic Strength",
+            "Epic Dexterity",
+            "Fertility",
+            "Fire",
+            "Fortune",
+            "Order",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Radegast",
+        "title": "The Hospitable Councilor",
+        "pantheon": "Bogovi",
+        "aliases": "Riedegost, Potrembog",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Snake)",
+            "Darkness",
+            "Deception",
+            "Epic Dexterity",
+            "Fortune",
+            "Journeys",
+            "Moon",
+            "Order",
+            "Sky",
+            "Stars",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Svarog",
+        "title": "The Fire of Creation",
+        "pantheon": "Bogovi",
+        "aliases": "Jarog, Tvarog",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Fire",
+            "Forge",
+            "Fortune",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Svarozhich",
+        "title": "The Fire of the Earth",
+        "pantheon": "Bogovi",
+        "aliases": "Ognebog",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Strength",
+            "Epic Stamina",
+            "Fire",
+            "Forge",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Veles",
+        "title": "The Guardian of the Gates",
+        "pantheon": "Bogovi",
+        "aliases": "Flins, Vialies, Volos, Wols, Zembog",
+        "callings": [
+            "Judge",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Bears)",
+            "Beasts (Wolves)",
+            "Beasts (Snakes)",
+            "Beasts (Owls)",
+            "Chaos",
+            "Darkness",
+            "Death",
+            "Deception",
+            "Earth",
+            "Fertility",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Živa",
+        "title": "The Most Beautiful",
+        "pantheon": "Bogovi",
+        "aliases": "Diva, Devana, Razivia, Siva, Vesna, Ziwa, Zhibog",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Death",
+            "Epic Stamina",
+            "Fertility",
+            "Health",
+            "Passion",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Zorya Polunochnaya",
+        "title": "The Midnight Star",
+        "pantheon": "Bogovi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Epic Dexterity",
+            "Journeys",
+            "Moon",
+            "Sky",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Zorya Utrennyaya",
+        "title": "The Shining Star",
+        "pantheon": "Bogovi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (Horses)",
+            "Beauty",
+            "Epic Dexterity",
+            "Fertility",
+            "Journeys",
+            "Moon",
+            "Sky",
+            "Stars",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Zorya Vechernyaya",
+        "title": "The Evening Star",
+        "pantheon": "Bogovi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Liminal"
+        ],
+        "purviews": [
+            "Artistry (Homemaking)",
+            "Deception",
+            "Epic Stamina",
+            "Journeys",
+            "Sky",
+            "Stars",
+            ""
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Agni",
+        "title": "The Sacrificial Flame of Knowledge",
+        "pantheon": "Devá",
+        "aliases": "Aggi, Jataveda, Kravyada, Abhimani, Atithi, Vaisvanara",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Fire",
+            "Journeys",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Durga",
+        "title": "The Mother of Victory",
+        "pantheon": "Devá",
+        "aliases": "Adi Parashkti, Devi, Mahamaya",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Deception",
+            "Fertility",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ganesha",
+        "title": "The Lord of Obstacles",
+        "pantheon": "Devá",
+        "aliases": "Ganapati, Pillaiyar, Maha Peinne, Phra Phikanet, Kangiten, and 108 other names",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Artistry (Writing)",
+            "Beasts (Elephants)",
+            "Chaos",
+            "Fortune",
+            "Journeys",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Indra",
+        "title": "The Storm King",
+        "pantheon": "Devá",
+        "aliases": "Inthiran, Indera, Vrishan, Vritrahan, Devaraja, Vajrapani, Shakra, Sakka, Phra In, Dishitian, Taishakuten",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Beasts (Cattle)",
+            "Fertility",
+            "Order",
+            "Wild",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Kali",
+        "title": "The Dark Mother",
+        "pantheon": "Devá",
+        "aliases": "Bhavatarini, Chamunda, Kaalratri",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Artistry (Dance)",
+            "Chaos",
+            "Darkness",
+            "Death",
+            "Deception",
+            "Fire"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Karttikeya",
+        "title": "Field Martial of the Gods",
+        "pantheon": "Devá",
+        "aliases": "Murugan, Skanda, Tamill Kadavull, Subrahmanya, Kataragama Deviyo",
+        "callings": [
+            "Leader",
+            "Safe",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Beauty",
+            "Stars",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Lakshmi",
+        "title": "Goddess of Fortune",
+        "pantheon": "Devá",
+        "aliases": "Shri, Thirumagal, Vasudhara, Sita, Rukmini, Kisshoten",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Lover"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Beauty",
+            "Earth",
+            "Fertility",
+            "Fortune",
+            "Order",
+            "Passion (Joy)",
+            "Passion (Love)",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Parvati",
+        "title": "Goddess of Love and Fertility",
+        "pantheon": "Devá",
+        "aliases": "Uma, Lalita, Sati, and 1,000 or so other names",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Stamina",
+            "Artistry (Dance)",
+            "Beauty",
+            "Earth",
+            "Fertility",
+            "Frost",
+            "Passion (Devotion)",
+            "Passion (Love)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sarasvati",
+        "title": "Goddess of Arts and Letters",
+        "pantheon": "Devá",
+        "aliases": "Thurathadi, Benzaiten, Biancaitian",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Artistry",
+            "Health",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Shiva",
+        "title": "The Destroyer",
+        "pantheon": "Devá",
+        "aliases": "Lingam, Maheshvara, Nataraja, and 1,000 or so other names",
+        "callings": [
+            "Hunter",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Artistry (Dance)",
+            "Beasts (Monkeys)",
+            "Chaos",
+            "Death",
+            "Deception",
+            "Fertility",
+            "Fire",
+            "Moon",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Surya",
+        "title": "The Vivifying Sun",
+        "pantheon": "Devá",
+        "aliases": "Ravi, Bhanu, Savitar, Savitr",
+        "callings": [
+            "Healer",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Fire",
+            "Health",
+            "Journeys",
+            "Stars",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Varuna",
+        "title": "The Face of the Waters",
+        "pantheon": "Devá",
+        "aliases": "Baruna, Suiten",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Darkness",
+            "Fertility",
+            "Order",
+            "Sky",
+            "Sun",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Vishnu",
+        "title": "The Preserver",
+        "pantheon": "Devá",
+        "aliases": "Jagannatha, Gorakh, Bichu-ten, and 1,000 or so other names",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Artistry (Dance)",
+            "Artistry (Wind Instruments)",
+            "Beauty",
+            "Deception",
+            "Order",
+            "Passion (Hope)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Vishvakarman",
+        "title": "Divine Architect",
+        "pantheon": "Devá",
+        "aliases": "Bishukatsuma-ten, Brahmanaspathi, Tvastar",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Liminal"
+        ],
+        "purviews": [
+            "Artistry (All)",
+            "Beasts (Doves)",
+            "Chaos",
+            "Forge",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Yamaraja",
+        "title": "The King of Death",
+        "pantheon": "Devá",
+        "aliases": "Imra, Yanluowang, Enma Dai-o, Yeomna Daewang, Shinje",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Darkness",
+            "Death",
+            "Journeys",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Anat",
+        "title": "Goddess of War and Fertility",
+        "pantheon": "Ilhm",
+        "aliases": "Anat Athena, Anat-Yahu, Antu,  ‘Atah,  Our Lady of the Heavens, She Who Walked to Zephon",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beauty",
+            "Death",
+            "Epic  Stamina",
+            "Passion (Love)",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Asherah",
+        "title": "Goddess of Creation and Change",
+        "pantheon": "Ilhm",
+        "aliases": "Aserdu, Ašratu, Ašratum, Dione, Divine Mother of Transition and Transformation, ʾIlat, Our Lady of Change and Growth, Most Exalted Goddess of the Day, She Who Treads on the Sea Dragon, She Who Walks on Waves",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Beauty",
+            "Fire",
+            "Health",
+            "Passion (Love)",
+            "Prosperity",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ba'al",
+        "title": "He of a Hundred Faces",
+        "pantheon": "Ilhm",
+        "aliases": "Adad; Ba’al Aliyan; Ba’al Haddu/Hadad; Ba’al Ba’al  Karnaim; Bloody-Handed King; Eternal Judge of Flame; Lord of the Two Horns",
+        "callings": [
+            "Leader",
+            "Lover",
+            "Judge"
+        ],
+        "purviews": [
+            "Artistry (Sports)",
+            "Beasts (Bulls)",
+            "Beauty",
+            "Epic Stamina",
+            "Epic Strength",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Dagon",
+        "title": "God of the Ocean and Agriculture",
+        "pantheon": "Ilhm",
+        "aliases": "Dagan, He Beneath the Waves, Oannes, Zeuis Arotrios",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Artistry (Sports)",
+            "Beasts (Ocean Life)",
+            "Beasts (Farm Animals Except  Bulls)",
+            "Epic  Stamina",
+            "Fertility",
+            "Health",
+            "Prosperity",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Gad",
+        "title": "Deity of Fortune and Misfortune",
+        "pantheon": "Ilhm",
+        "aliases": "They Who Cut and Divide; King of the Right and Left Hands; Queen of Yes, No, and Maybe",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Poetry)",
+            "Chaos",
+            "Deception",
+            "Epic Dexterity",
+            "Fortune"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mot",
+        "title": "God of Death",
+        "pantheon": "Ilhm",
+        "aliases": "The Once-Favorite, Who Devours the Lamb, Who Walks Between Life and Death",
+        "callings": [
+            "Liminal",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Stamina",
+            "Order",
+            "Passion (Lust)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Raḥmayyu",
+        "title": "Goddess of Creation and Stability",
+        "pantheon": "Ilhm",
+        "aliases": "ʾAṯiratu of the Sea; Divine Mother of Byblos; Most Exalted Goddess of the Night; Our Lady of Creation and Home; Rahmay; Rahmaya; She Who Stands on Earth; Womb of all Wombs",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Pottery)",
+            "Artistry (Weaving)",
+            "Beauty",
+            "Death",
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Health",
+            "Moon"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "ʾIla",
+        "title": "God of Heaven and Wisdom",
+        "pantheon": "Ilhm",
+        "aliases": "Creator of Creatures, Creator of Heaven and Earth, Eternal Sage, Eternal Father, Father of Man, Wise Father, Your Patriarch",
+        "callings": [
+            "Liminal",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bulls)",
+            "Epic Stamina",
+            "Fertility",
+            "Fire",
+            "Journeys",
+            "Prosperity",
+            "Sky",
+            ". Wild (Desert)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Awilix",
+        "title": "Goddess of the Moon and Night",
+        "pantheon": "K'uh",
+        "aliases": "Auilix, Avilix",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Eagle)",
+            "Beasts (Jaguar)",
+            "Darkness",
+            "Deception",
+            "Death",
+            "Moon"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Buluc-Chabtan",
+        "title": "God of War, Violence, Human Sacrifice, and Sudden Death",
+        "pantheon": "K'uh",
+        "aliases": "N/A",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Strength",
+            "Fire",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Chac",
+        "title": "God of Rain",
+        "pantheon": "K'uh",
+        "aliases": "Chaac, Chaahk",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth (Agriculture)",
+            "Epic Strength",
+            "Fertility",
+            "Sky",
+            "War",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Cizin",
+        "title": "God of Death, Ruler of the Underworld",
+        "pantheon": "K'uh",
+        "aliases": "Kisin, Ah-Puch",
+        "callings": [
+            "Hunter",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Spiders)",
+            "Beasts (Scorpions)",
+            "Beasts (Centipedes)",
+            "Beasts (Vultures)",
+            "Beasts (Owls)",
+            "Beasts (Bats)",
+            "Beasts (Dogs)",
+            "Darkness",
+            "Death",
+            "Earth (Earthquakes)",
+            "Fire"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Ek Chuaj",
+        "title": "God of Merchants, Chocolate, and War",
+        "pantheon": "K'uh",
+        "aliases": "Ek Chuaj, Ekchuah",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth (Chocolate)",
+            "Epic Stamina",
+            "Journey",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Hunahpu",
+        "title": "God of the Sun",
+        "pantheon": "K'uh",
+        "aliases": "The Hero Twins",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts",
+            "Deception",
+            "Epic Dexterity",
+            "Health",
+            "Journey",
+            "Sun"
+        ],
+        "notes": "Twin to Xbalanque",
+        "book": "God"
+    },
+    {
+        "name": "Itzamna",
+        "title": "God of Rulers, Writing, and Medicine",
+        "pantheon": "K'uh",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Painted Codices)",
+            "Earth",
+            "Fortune",
+            "Health",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Ix Chel",
+        "title": "Goddess of Midwives, Fertility, Pregnancy, Childbirth, and Medicine",
+        "pantheon": "K'uh",
+        "aliases": "Ixchel, Chak Chel, Lady Rainbow",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Weaving)",
+            "Fertility",
+            "Fortune",
+            "Health",
+            "Passion",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "K'uk'ulkan",
+        "title": "The Feathered Serpent",
+        "pantheon": "K'uh",
+        "aliases": "Kukulkan, Waxaklahun Ubah Kan",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Serpents)",
+            "Earth (Earthquakes)",
+            "Order",
+            "Prosperity",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Q'uq'umatz",
+        "title": "Sovereign Plumed Serpent",
+        "pantheon": "K'uh",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Artistry",
+            "Beasts",
+            "Earth",
+            "Fertility",
+            "Order",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Tohil",
+        "title": "God of Fire",
+        "pantheon": "K'uh",
+        "aliases": "N/A",
+        "callings": [
+            "Leader",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Deer)",
+            "Deception",
+            "Fire",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "U K'ux Kaj",
+        "title": "\"Heart of Sky\", God of Wind and Storm",
+        "pantheon": "K'uh",
+        "aliases": "Huracán, Hunraqan (one legged), Thunderbolt Hurricane",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Dog)",
+            "Beasts (Turkey)",
+            "Earth",
+            "Fire",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Xbalanque",
+        "title": "God of the Moon",
+        "pantheon": "K'uh",
+        "aliases": "The Hero Twins",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts",
+            "Deception",
+            "Epic Dexterity",
+            "Health",
+            "Journey",
+            "Moon"
+        ],
+        "notes": "Twin to Hunahpu",
+        "book": "God"
+    },
+    {
+        "name": "Ama-no-Uzume",
+        "title": "Amatsukami of Dawn",
+        "pantheon": "Kami",
+        "aliases": "Otafuku or Okame",
+        "callings": [
+            "Lover",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Artistry (Singing)",
+            "Deception",
+            "Passion (Mirth)",
+            "Passion (Lust)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Amaterasu-Ōmikami",
+        "title": "Amatsukami of the Sun, Queen of Heaven",
+        "pantheon": "Kami",
+        "aliases": "Ōhirume-no-muchi-no-kami, Ōmikami, Tenshō Daijin",
+        "callings": [
+            "Leader",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Fertility",
+            "Order",
+            "Prosperity",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Benzaiten",
+        "title": "Fortune of Talent and Eloquence",
+        "pantheon": "Kami",
+        "aliases": "Bentensama, Benzaitennyo, Ichikishima-hime-no-mikoto, Ugajin",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beast (Snake)",
+            "Artistry",
+            "Beauty",
+            "Fortune",
+            "Fertility",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Bishamon",
+        "title": "Fortune of War",
+        "pantheon": "Kami",
+        "aliases": "Bishamonten, Tamonten, Vaisravna",
+        "callings": [
+            "Guardian",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Fortune",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ebisu",
+        "title": "Fortune of Luck and Fishing",
+        "pantheon": "Kami",
+        "aliases": "Yebisu, Hiroku, Kotoshiro-nushi-no-kami",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Fish)",
+            "Beasts (Sharks)",
+            "Beasts (and Whales)",
+            "Epic Stamina",
+            "Fortune",
+            "Prosperity",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Fukurokuju",
+        "title": "Fortune of Longevity and Wisdom",
+        "pantheon": "Kami",
+        "aliases": "Old Man of the South Pole",
+        "callings": [
+            "Healer",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Deer)",
+            "Beasts (Turtle)",
+            "Beasts (Crane)",
+            "Epic Stamina",
+            "Fortune",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hachiman",
+        "title": "Amatsukami of Archery and War",
+        "pantheon": "Kami",
+        "aliases": "Daibosatsu, Emperor Ojin, and Yahata-no-kami",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry",
+            "Beasts (Dove)",
+            "Order",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hotei",
+        "title": "Fortune of Joy",
+        "pantheon": "Kami",
+        "aliases": "Laughing Buddha, Fat Buddha, Budai, Miroku",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Chaos",
+            "Fortune",
+            "Journeys",
+            "Passion (Joy)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Inari",
+        "title": "Kunitsukami of Rice",
+        "pantheon": "Kami",
+        "aliases": "Inari Ōkami, Oinari, Inari Daimyojin, Dakiniten",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (Fox)",
+            "Fertility",
+            "Fortune",
+            "Journeys",
+            "Prosperity",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Kisshōten",
+        "title": "Fortune of Beauty and Mercy",
+        "pantheon": "Kami",
+        "aliases": "Kichijoten, Kudokuten, Lakshmi, Mahasri",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Fortune",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ōkuninushi",
+        "title": "Fortune of Heroes",
+        "pantheon": "Kami",
+        "aliases": "Onamuji, Daikoku, Daikokuten, Daikokutennyo",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (all)",
+            "Darkness",
+            "Earth",
+            "Fortune",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Omoikane",
+        "title": "Amatsukami of Wisdom and Intelligence",
+        "pantheon": "Kami",
+        "aliases": "Tokoyo-no-omoikane-no-kami, Yagokoro-omoikane-no-mikoto",
+        "callings": [
+            "Judge",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Rhetoric)",
+            "Deception",
+            "Order",
+            "Prosperity",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sarutahiko-Daimyōjin",
+        "title": "N/A",
+        "pantheon": "Kami",
+        "aliases": "Dosōjin, Kōjin",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Monkey)",
+            "Earth",
+            "Journeys"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Susano-o",
+        "title": "Amatsukami of the Storms",
+        "pantheon": "Kami",
+        "aliases": "Susanoo-no-Mikoto",
+        "callings": [
+            "Creator",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Poetry)",
+            "Chaos",
+            "Death",
+            "Epic Strength",
+            "Forge",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Takemikazuchi",
+        "title": "Amatsukami of Thunder",
+        "pantheon": "Kami",
+        "aliases": "Takefutsu, Toyofutsu, Ikazuchi-no-kami",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Deer)",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tsukiyomi",
+        "title": "Amatsukami of the Moon",
+        "pantheon": "Kami",
+        "aliases": "Tsukiyomi-no-Mikoto",
+        "callings": [
+            "Liminal",
+            "Judge",
+            "Healer"
+        ],
+        "purviews": [
+            "Artistry",
+            "Darkness",
+            "Moon",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Baron Cimetière",
+        "title": "N/A",
+        "pantheon": "Loa",
+        "aliases": "The Cemetery",
+        "callings": [
+            "Judge",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Epic Stamina",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Baron La Croix",
+        "title": "N/A",
+        "pantheon": "Loa",
+        "aliases": "The Cross",
+        "callings": [
+            "Judge",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Stamina",
+            "Fortune",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Baron Samedi",
+        "title": "N/A",
+        "pantheon": "Loa",
+        "aliases": "Saturday",
+        "callings": [
+            "Judge",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Death",
+            "Epic Stamina",
+            "Fertility",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Damballa",
+        "title": "The Ancestor",
+        "pantheon": "Loa",
+        "aliases": "Danbala Wèdo",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Snakes)",
+            "Earth",
+            "Fertility",
+            "Order",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ezili",
+        "title": "Who Struggles and Loves",
+        "pantheon": "Loa",
+        "aliases": "Ezili Dantò, Ezili Freda",
+        "callings": [
+            "Healer",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bees)",
+            "Beauty",
+            "Fertility",
+            "Fortune",
+            "Frost",
+            "Health",
+            "Passion (Love)",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "Mantle of Oshun",
+        "book": ""
+    },
+    {
+        "name": "Kalfu",
+        "title": "Who Walks at Night",
+        "pantheon": "Loa",
+        "aliases": "Carrefour, the Devil at the Crossroads",
+        "callings": [
+            "Liminal",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Darkness",
+            "Fortune",
+            "Journeys",
+            "Moon"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Lasyren",
+        "title": "Who Sings in the Sea",
+        "pantheon": "Loa",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Cetaceans)",
+            "Epic Strength",
+            "Epic Stamina",
+            "Fertility",
+            "Frost",
+            "Journeys",
+            "Water"
+        ],
+        "notes": "Mantle of Yemoja-Oboto",
+        "book": ""
+    },
+    {
+        "name": "Legba",
+        "title": "Who Opens the Way",
+        "pantheon": "Loa",
+        "aliases": "Papa Legba, Papa LaBas, Atibon, Vye",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Storytelling)",
+            "Chaos",
+            "Deception",
+            "Epic Dexterity",
+            "Fortune",
+            "Journeys"
+        ],
+        "notes": "Mantle of Elegba",
+        "book": ""
+    },
+    {
+        "name": "Ogou",
+        "title": "Who Wields Iron",
+        "pantheon": "Loa",
+        "aliases": "Ogou Feray, Ogou Sanjak",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Strength",
+            "Epic Stamina",
+            "Forge",
+            "Passion (Fear)",
+            "War"
+        ],
+        "notes": "Mantle of Ogun",
+        "book": ""
+    },
+    {
+        "name": "Biboonike",
+        "title": "The Winter-Maker",
+        "pantheon": "Manitou",
+        "aliases": "Gichi-Biboon, Jack Frost, Old Man Winter, The North Wind",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Darkness",
+            "Frost",
+            "Sky",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Cheeby-Aub-Oozoo",
+        "title": "Chief of the Underworld",
+        "pantheon": "Manitou",
+        "aliases": "Jiibayaabooz, Chipiapoo, Moqwaio, Ghost of Rabbit",
+        "callings": [
+            "Liminal",
+            "Hunter",
+            "Judge"
+        ],
+        "purviews": [
+            "Beasts (Wolf)",
+            "Death",
+            "Epic Stamina",
+            "Artistry (Song)",
+            "Artistry (Music)",
+            "Order",
+            "Darkness"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Geezhigo-Quae",
+        "title": "Grandmother of Us All",
+        "pantheon": "Manitou",
+        "aliases": "Nokomis, Grandmother, Sky Woman",
+        "callings": [
+            "Guardian",
+            "Sage",
+            "Healer"
+        ],
+        "purviews": [
+            "Moon",
+            "Sky",
+            "Stars",
+            "Beasts (Crane)",
+            "Beasts (Turtle)",
+            "Order"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Ioskeha",
+        "title": "The Good Mind",
+        "pantheon": "Manitou",
+        "aliases": "Sapling, Good Spirit, Good Mind, Right-Handed Twin, Little Sprout",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Forge",
+            "Sun",
+            "Sky",
+            "Order",
+            "Beasts (diurnal mammals and Birds)",
+            "Beasts (Insects)",
+            "Beasts (and Fish)",
+            "Health",
+            "Passion (all light emotions)"
+        ],
+        "notes": "Of the Orenda",
+        "book": "Hero"
+    },
+    {
+        "name": "Maudjee-Kawiss",
+        "title": "Firstborn Son",
+        "pantheon": "Manitou",
+        "aliases": "The Warrior",
+        "callings": [
+            "Warrior",
+            "Leader",
+            "Hunter"
+        ],
+        "purviews": [
+            "Beasts (Bear)",
+            "Beasts (Eagle)",
+            "Epic Strength",
+            "Epic Dexterity",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Muzzu-Kumik-Quae",
+        "title": "Mother Earth",
+        "pantheon": "Manitou",
+        "aliases": "Mother Earth, Earth Woman",
+        "callings": [
+            "Healer",
+            "Sage",
+            "Hunter"
+        ],
+        "purviews": [
+            "Beasts (all)",
+            "Fertility",
+            "Earth",
+            "Sky",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Nana'b'oozoo",
+        "title": "The Prototype of Man",
+        "pantheon": "Manitou",
+        "aliases": "Manobozho, Wisakedjak",
+        "callings": [
+            "Trickster",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Rabbit)",
+            "Beasts (or Wolf for Wisakedjak)",
+            "Chaos (Water for Wisakedjak)",
+            "Epic Dexterity",
+            "Fortune",
+            "Journeys."
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Pukawiss",
+        "title": "The Disowned",
+        "pantheon": "Manitou",
+        "aliases": "The Disowned, Unwanted",
+        "callings": [
+            "Trickster",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Artistry (Dance)",
+            "Artistry (Acting)",
+            "Artistry (Storytelling)",
+            "Passion (Mirth)",
+            "Fortune",
+            "Deception"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Tawiscara",
+        "title": "The Bad Mind",
+        "pantheon": "Manitou",
+        "aliases": "Flint, Bad Mind, Left-Handed Twin, Molsem",
+        "callings": [
+            "Creator",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Chaos",
+            "Deception",
+            "Darkness",
+            "Death",
+            "Passion (all dark emotions)",
+            "Forge",
+            "War"
+        ],
+        "notes": "Of the Orenda",
+        "book": "Hero"
+    },
+    {
+        "name": "Winonah",
+        "title": "The First Woman",
+        "pantheon": "Manitou",
+        "aliases": "Winona, Tekawerahkwa",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Healer"
+        ],
+        "purviews": [
+            "Health",
+            "Passion",
+            "Prosperity",
+            "Epic Stamina",
+            "Fortune"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Andarta",
+        "title": "Goddess of War",
+        "pantheon": "Nemetondevos",
+        "aliases": "Andraste, Andate, Andred",
+        "callings": [
+            "Hunter",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Fortune",
+            "Passion (Bravery)",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Belenos",
+        "title": "Keeper of the Wheel",
+        "pantheon": "Nemetondevos",
+        "aliases": "Vidonnus",
+        "callings": [
+            "Healer",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Death",
+            "Health",
+            "Stars",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Cernunnos",
+        "title": "Horned God of the Wild",
+        "pantheon": "Nemetondevos",
+        "aliases": "Callerius, Vosegus",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Wild Animals)",
+            "Prosperity",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Epona",
+        "title": "Goddess of Horses",
+        "pantheon": "Nemetondevos",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Horses)",
+            "Fertility",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Esos",
+        "title": "The Forester",
+        "pantheon": "Nemetondevos",
+        "aliases": "Esus, Hesus",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Woodcarving)",
+            "Epic Strength",
+            "Forge"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Nahalennia",
+        "title": "Twin of Voyages and Healing Journeys",
+        "pantheon": "Nemetondevos",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (Dogs)",
+            "Beasts (Marine Life)",
+            "Fertility",
+            "Health",
+            "Journeys",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Nantosuelta",
+        "title": "Goddess of Hearth and Hive",
+        "pantheon": "Nemetondevos",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bees)",
+            "Beasts (Birds)",
+            "Fertility",
+            "Fire"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Nodens",
+        "title": "Twin of Voyages and Healing Journeys",
+        "pantheon": "Nemetondevos",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (Dogs)",
+            "Beasts (Marine Life)",
+            "Fortune",
+            "Health",
+            "Journeys",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sulis",
+        "title": "Goddess of the Healing Springs of Bath",
+        "pantheon": "Nemetondevos",
+        "aliases": "Adsullata",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Judge"
+        ],
+        "purviews": [
+            "Earth",
+            "Health",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Taranis",
+        "title": "God of the Sky and the Storm",
+        "pantheon": "Nemetondevos",
+        "aliases": "Ambisagrus, Taranos, Taranus",
+        "callings": [
+            "Judge",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Chaos",
+            "Epic Strength",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Anpu",
+        "title": "Weigher of the Heart",
+        "pantheon": "Netjer",
+        "aliases": "Anubis, Anapa, Yinepu, Upauaut",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beast (Jackal)",
+            "Darkness",
+            "Death",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Aset",
+        "title": "Goddess of Magic and Rebirth",
+        "pantheon": "Netjer",
+        "aliases": "Isis",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beast (Kite)",
+            "Beast (Serpent)",
+            "Death",
+            "Deception",
+            ""
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Bast",
+        "title": "Goddess of War and Prophecy",
+        "pantheon": "Netjer",
+        "aliases": "Sekhmet, Bastet",
+        "callings": [
+            "Hunter",
+            "Guardian",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Artistry (Music)",
+            "Beasts (Cats)",
+            "Beasts (Lions)",
+            "Epic Dexterity",
+            "Fertility",
+            "Fortune",
+            "Health",
+            "Moon",
+            "Sun",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Djehuty",
+        "title": "God of Knowledge",
+        "pantheon": "Netjer",
+        "aliases": "A, A’an, Asten, Thoth, Hab, Kenti, Mehi, Sheps",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Baboon)",
+            "Beasts (Ibis)",
+            "Deception",
+            "Health",
+            "Fortune",
+            "Moon",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Heru",
+        "title": "Lord of the Black Soil",
+        "pantheon": "Netjer",
+        "aliases": "Horus, Nekheny",
+        "callings": [
+            "Leader",
+            "Guardian",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Falcon)",
+            "Moon",
+            "Order",
+            "Sky",
+            "Sun",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Het-Heru",
+        "title": "Mother of the Netjer",
+        "pantheon": "Netjer",
+        "aliases": "Hathor, Bat, Sekhmet",
+        "callings": [
+            "Creator",
+            "Lover",
+            "Healer"
+        ],
+        "purviews": [
+            "Artistry (Music)",
+            "Artistry (Dance)",
+            "Beasts (Cow)",
+            "Beauty",
+            "Fertility",
+            "Fortune",
+            "Passion (Love)",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Khnum",
+        "title": "God of Artistry",
+        "pantheon": "Netjer",
+        "aliases": "Khnemu, Atum",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Artistry (Pottery)",
+            "Beasts (Ram)",
+            "Earth",
+            "Health",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Pteh",
+        "title": "God of Craftsmen",
+        "pantheon": "Netjer",
+        "aliases": "Petah",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Beast (Bull)",
+            "Fire",
+            "Forge",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Re",
+        "title": "Between Two Horizons",
+        "pantheon": "Netjer",
+        "aliases": "Atum, Atum-Re, Khepri, Ptah-Re, Ra, Tem-Ra",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Beast (Falcon)",
+            "Beast (Scarab)",
+            "Beast (Ram)",
+            "Death",
+            "Journeys",
+            "Fire",
+            "Order",
+            "Epic Stamina",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Set",
+        "title": "Lord of the Red Desert",
+        "pantheon": "Netjer",
+        "aliases": "Seth, Sutekh",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Salawa)",
+            "Beasts (Fish)",
+            "Chaos",
+            "Earth",
+            "Epic Strength",
+            "Journeys",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sobek",
+        "title": "God of Fertility and Protection",
+        "pantheon": "Netjer",
+        "aliases": "Suchos",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Lover"
+        ],
+        "purviews": [
+            "Beasts (Crocodile)",
+            "Epic Stamina",
+            "Fertility",
+            "Passion (Lust)",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Upuaut",
+        "title": "Opener of Ways",
+        "pantheon": "Netjer",
+        "aliases": "Ophois, Wepwawet",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Wolves)",
+            "Death",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Journeys",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Wesir",
+        "title": "King of Death and Resurrection",
+        "pantheon": "Netjer",
+        "aliases": "Osiris, Sepa, Serapis",
+        "callings": [
+            "Creator",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Ram)",
+            "Beasts (Centipede)",
+            "Death",
+            "Earth",
+            "Fertility",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Erinle",
+        "title": "God of Healing and Hunting",
+        "pantheon": "Orisha",
+        "aliases": "Àbatàn, Erele, Iņle",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Lover"
+        ],
+        "purviews": [
+            "Beauty",
+            "Epic Stamina",
+            "Epic Strength",
+            "Passion (Love)",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Éshú Elégbará",
+        "title": "The Opener of the Way",
+        "pantheon": "Orisha",
+        "aliases": "Eleguá (Sp), Exû (Pt), Papa Legba (Fn/Kr), Papa LaBas (Kr)",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Storytelling)",
+            "Chaos",
+            "Deception",
+            "Epic Dexterity",
+            "Fortune",
+            "Journeys"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Íbejí",
+        "title": "The Sacred Twins",
+        "pantheon": "Orisha",
+        "aliases": "Taiyewo and Kéhindé, Edun, Adanjukale (Yr), Hohovi (Fn), Marassa Dosu Dosa (Kr)",
+        "callings": [
+            "Healer",
+            "Judge",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Beasts (Monkeys)",
+            "Death",
+            "Fertility",
+            "Fortune",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Morémi",
+        "title": "The Greatest Yoruba Hero",
+        "pantheon": "Orisha",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beauty",
+            "Deception",
+            "Fertility",
+            "Fire",
+            "Passion"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Obàtálá",
+        "title": "The King of the White Cloth",
+        "pantheon": "Orisha",
+        "aliases": "Aníyìkáyé, Òrò Oko Àfín Ení Shojú Shemú, Obàtarìshà, Aládé Shéshéfun, Òrìshà-Ńlá (Yr), Oxalá (Pt)",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Judge"
+        ],
+        "purviews": [
+            "Artistry (Sculpture)",
+            "Health",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Odúduwà",
+        "title": "The God-King of Ilé-Ifè",
+        "pantheon": "Orisha",
+        "aliases": "Oòduà (Yr)",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Darkness",
+            "Earth",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Ògún",
+        "title": "The God of Iron",
+        "pantheon": "Orisha",
+        "aliases": "Oggún (Sp), Ogûm (Pt), Gu (Fn), Ogou (Kr)",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Strength",
+            "Epic Stamina",
+            "Forge",
+            "Passion (Fear)",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Òríshà-Oko",
+        "title": "The God of Agriculture",
+        "pantheon": "Orisha",
+        "aliases": "Zaka (Fn), Kouzen Azaka Mede (Kr)",
+        "callings": [
+            "Hunter",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (of Burden)",
+            "Beasts (Birds)",
+            "Fertility",
+            "Fortune",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Òrúnmílà",
+        "title": "The Power of Divination",
+        "pantheon": "Orisha",
+        "aliases": "Ifá (Yr), Orúla (Sp)",
+        "callings": [
+            "Healer",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Fortune",
+            "Sky",
+            "Stars",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Osanyín",
+        "title": "The God of Herbal Medicine",
+        "pantheon": "Orisha",
+        "aliases": "Àròni (Yr), Ossaim (Pt), Ossange (Kr)",
+        "callings": [
+            "Healer",
+            "Hunter",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Epic Stamina",
+            "Fertility",
+            "Fortune",
+            "Health",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Oshóssí",
+        "title": "The Bowhunter",
+        "pantheon": "Orisha",
+        "aliases": "Ochosi (Sp), Oxóssi (Pt), Age (Fn)",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Judge"
+        ],
+        "purviews": [
+            "Beasts",
+            "Epic Dexterity",
+            "Prosperity",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Òshun",
+        "title": "Goddess of Cool Sweet Water",
+        "pantheon": "Orisha",
+        "aliases": "Ochun, Yalorde (Sp), Oxûm (Pt), Aziri (Fn), Ezili (Kr), Erzulie (USA)",
+        "callings": [
+            "Healer",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bees)",
+            "Beauty",
+            "Fertility",
+            "Fortune",
+            "Frost",
+            "Health",
+            "Passion (Love)",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Oya Iyansan",
+        "title": "Goddess of the River Niger",
+        "pantheon": "Orisha",
+        "aliases": "Àràká (Yr), Iansã (Pt), Avesan (Fn)",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Bull)",
+            "Epic Strength",
+            "Epic Dexterity",
+            "Death",
+            "Prosperity",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Shàngó",
+        "title": "The King Who Did Not Hang",
+        "pantheon": "Orisha",
+        "aliases": "Jakuta, Obà Kòso (Yr), Hebiosso (Fon), Changó (Sp), Xangô (Pt)",
+        "callings": [
+            "Leader",
+            "Lover",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Drums)",
+            "Artistry (Dance)",
+            "Beauty",
+            "Epic Strength",
+            "Fire",
+            "Order",
+            "Passion",
+            "Prosperity",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Sònpònná",
+        "title": "God of Smallpox",
+        "pantheon": "Orisha",
+        "aliases": "Obaluaiye, Ile-Gbigbona, Ile-Titu, Olode (Yr), Babalu Ayé (Sp), Obaluaiê, Omulu (Pt), Sagbata, Sakpata (Fn), Sabata (Kr)",
+        "callings": [
+            "Healer",
+            "Hunter",
+            "Liminal"
+        ],
+        "purviews": [
+            "Death",
+            "Earth",
+            "Health",
+            "Passion (Spite)",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Yeemoja-Oboto",
+        "title": "Queen of the Sea",
+        "pantheon": "Orisha",
+        "aliases": "Olókun, Yemòó (Yr), Yemayá, Iemanja, Stella Maris, Lasyren, Mami Wata",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Cetaceans)",
+            "Epic Strength",
+            "Epic Stamina",
+            "Fertility",
+            "Frost",
+            "Journeys",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Dhṛtarāṣṭra",
+        "title": "Who Preserves the Empire",
+        "pantheon": "Palas",
+        "aliases": "Dhataraṭṭha (P), [Yul ‘khor srung] (T), Chíguó Tiān (M), Jikokuten (J), Jigukcheon (K)",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Music)",
+            "Epic Stamina",
+            "Epic Strength",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Tārā",
+        "title": "Who Saves All",
+        "pantheon": "Palas",
+        "aliases": "Jetsun Dolma (T), Duōluó Púsà (M), Tara Bosatsu (J), Dara Bosal (K), Bhṛkutī (S)",
+        "callings": [
+            "Guardian",
+            "Monster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Health",
+            "Order",
+            "Passion",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Vajirapāni",
+        "title": "Adamant in Hand",
+        "pantheon": "Palas",
+        "aliases": "Vajrapāṇi (S), Chakna Dorje (T), Jīngāngshǒu Púsà (M), Kongōshu Bosatsu (J), Geumgangsu Bosal (K)",
+        "callings": [
+            "Guardian",
+            "Monster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Passion (Fear)",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Vessavana",
+        "title": "Who Hears Everything",
+        "pantheon": "Palas",
+        "aliases": "Vaiśravaṇa (S), Rnam sras, Rnam thos kyi bu (T), Duōwén Tiānwáng (M), Bishamonten (J), Bisamuncheon (K), Kubera (S), Jambhala (S)",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Monster"
+        ],
+        "purviews": [
+            "Beasts",
+            "Darkness",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Vimalakịrti",
+        "title": "Untainted Fame",
+        "pantheon": "Palas",
+        "aliases": "Wéimó Mié (M), Imakoji (J)",
+        "callings": [
+            "Adversary",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Pedantry)",
+            "Health",
+            "Journeys",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Chang'e",
+        "title": "The Immortal in the Moon",
+        "pantheon": "Shén",
+        "aliases": "Heng’e, Changxi",
+        "callings": [
+            "Healer",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Beasts (Rabbits)",
+            "Beasts (Toads)",
+            "Beauty",
+            "Health",
+            "Moon"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Confucius",
+        "title": "The Model Teacher for Ten Thousand Ages",
+        "pantheon": "Shén",
+        "aliases": "Kong Qiu, Kong Fuzi, Zhongni",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry",
+            "Order",
+            "Passion (Filiality)"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Doumu",
+        "title": "Mother of the Big Dipper",
+        "pantheon": "Shén",
+        "aliases": "Marīci, Marishiten",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Boars)",
+            "Fortune",
+            "Order",
+            "Prosperity",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Erlang",
+        "title": "The Merciful and Miraculous King",
+        "pantheon": "Shén",
+        "aliases": "Li Erlang, Yang Jian, Governor Zhao Yu",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Stamina",
+            "Forge",
+            "War",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Fuxi",
+        "title": "Ancestor of Humankind",
+        "pantheon": "Shén",
+        "aliases": "Paoxi, Baoxi, Taihao",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Musical Instruments)",
+            "Artistry (Writing)",
+            "Beasts",
+            "Fertility",
+            "Forge",
+            "Fortune",
+            "Health",
+            "Order",
+            "Sun"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Guan Yu",
+        "title": "The Divine General",
+        "pantheon": "Shén",
+        "aliases": "Yunchang; Changsheng; Shouchang; Marquis Zhuangmou; Duke Zhonghui; the Lord of the Magnificent Beard; Guan the Holy Great Deity, God of War Manifesting Benevolence, Bravery and Prestige, Protector of the Country and Defender of the People, Prow and Honest Supporter of Peace and Reconciliation, Promoter of Morality, Loyalty and Righteousness; Sangharama Bodhisattva",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Stamina",
+            "Artistry (Historical Fiction)",
+            "Order",
+            "Passion (Loyalty)",
+            "Prosperity",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Guanshiyin Pusa",
+        "title": "Who Perceives the Sounds of the World",
+        "pantheon": "Shén",
+        "aliases": "Avalokiteshvara, Hayagriva, Guanyin, Kannon, Cundi",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Deception",
+            "Health",
+            "Journeys",
+            "Passion (Mercy)",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Huangdi",
+        "title": "The Yellow Emperor",
+        "pantheon": "Shén",
+        "aliases": "Gongsun, Xuanyuan, Youxiong, Zhongyue Dadi",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts",
+            "Death",
+            "Earth",
+            "Forge",
+            "Health",
+            "Order",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Laozi",
+        "title": "The Old Masters",
+        "pantheon": "Shén",
+        "aliases": "Li Er, Lao Dan, Boyang, Taiqing, the Grand Supreme Elderly Lord, the Universally Honored Virtuous One, the Daoist Ancestor",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Artistry (Poetry)",
+            "Chaos",
+            "Darkness",
+            "Health",
+            "Order",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Meng Po",
+        "title": "",
+        "pantheon": "Shén",
+        "aliases": "N/A",
+        "callings": [
+            ""
+        ],
+        "purviews": [
+            ""
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Nezha",
+        "title": "The Marshal of the Central Altar",
+        "pantheon": "Shén",
+        "aliases": "The Third Lotus Prince, Nataku",
+        "callings": [
+            "Guardian",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Epic Strength",
+            "Artistry (Animation)",
+            "Health",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Nüwā",
+        "title": "The Snake Goddess Who Mends the Heavens",
+        "pantheon": "Shén",
+        "aliases": "Nügua",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Earth",
+            "Fertility",
+            "Forge",
+            "Health",
+            "Moon",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Sun Wukong",
+        "title": "The Monkey Awakened to Emptiness",
+        "pantheon": "Shén",
+        "aliases": "Miao Min, Tôn Ngô Không, Heng Chia, Son Ogong, Sun Gokong, Son Gokū, the Monkey King, the Great Sage Equalling Heaven, the Protector of the Horses, Sūn the Novice, the Victorious Fighting Buddha, Clever Stone Monkey, That Damned Macaque",
+        "callings": [
+            "Liminal",
+            "Trickster",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Strength",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Artistry (Opera)",
+            "Beasts (Monkeys)",
+            "Chaos",
+            "Deception",
+            "Journeys",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Yandi Shennongshi",
+        "title": "Tje Flame Emperor and Divine Farmer",
+        "pantheon": "Shén",
+        "aliases": "Sinnong, Thán Nông, Entei, Shin’nō, Five Grains Emperor, Medicine King",
+        "callings": [
+            "Healer",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Artistry (Storytelling)",
+            "Fertility",
+            "Fire",
+            "Forge",
+            "Health",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Atagha",
+        "title": "The Descender, God of Storms",
+        "pantheon": "Tengri",
+        "aliases": "Red Atagha, Ataya",
+        "callings": [
+            "Leader",
+            "Guardian",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Horses)",
+            "Epic Strength",
+            "Epic Dexterity",
+            "Fortune",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Chinggis Khagan",
+        "title": "The Great Khan, Father of the Mongol Empire",
+        "pantheon": "Tengri",
+        "aliases": "Temujin, Khan of Khans, Genghis Khan",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Strength",
+            "Journeys",
+            "Order",
+            "Passion (Pride)",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Dayisun",
+        "title": "Sovereign of the Enemy Gods, God of War",
+        "pantheon": "Tengri",
+        "aliases": "Dayicin Noyan, Dayisud, Sulde, Black Sulde",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Weaving)",
+            "Beasts (Bears)",
+            "Beasts (Horses)",
+            "Chaos",
+            "Epic Stamina",
+            "Epic Strength",
+            "Passion (Bloodlust)",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Doluyan Ebugen",
+        "title": "The Seven Old Men, Gods of Fertility",
+        "pantheon": "Tengri",
+        "aliases": "Sundi, Buravabadara, Azlis, Urukini, Aburad, Raradi, Molbar",
+        "callings": [
+            "Judge",
+            "Sage",
+            "Healer"
+        ],
+        "purviews": [
+            "Fertility",
+            "Fortune",
+            "Health",
+            "Prosperity",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Erlik Khan",
+        "title": "The Brilliant One, Ruler of Tamu",
+        "pantheon": "Tengri",
+        "aliases": "Erlig, Erklik, Chollan",
+        "callings": [
+            "Liminal",
+            "(Monster)",
+            "Trickster"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Stamina",
+            "Health",
+            "Passion (Valor)",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Goudzir Kungker",
+        "title": "Mahakala Smith, God of Smiths",
+        "pantheon": "Tengri",
+        "aliases": "Makha Galan Darkhan Gujir",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Metalwork)",
+            "Beasts (Cattle)",
+            "Epic Strength",
+            "Fertility",
+            "Forge"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Jayaghaghtsi",
+        "title": "Zenith-Star of Fate, God of Good Fortune",
+        "pantheon": "Tengri",
+        "aliases": "Odun Jayaghaghtsi, Jol-jayaghatsi, Emegelji-jayaghatsi",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Healer"
+        ],
+        "purviews": [
+            "Fortune",
+            "Fertility",
+            "Health",
+            "Prosperity",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Khormusta Tengri",
+        "title": "King of the Gods, Lighter of Fire",
+        "pantheon": "Tengri",
+        "aliases": "Qormusta, Han Hormusta, Kormusda",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beast (Bull)",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Fire",
+            "Fortune",
+            "Order",
+            "Prosperity",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Manakhan",
+        "title": "King of Beasts, God of Hunting",
+        "pantheon": "Tengri",
+        "aliases": "Manaqan",
+        "callings": [
+            "Hunter",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (All)",
+            "Earth",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Odkhan Galakhan Eke",
+        "title": "The Fire-Queen-Mother, Goddess of Fire",
+        "pantheon": "Tengri",
+        "aliases": "Ghal-un Eke, Old Galakhan, Fire King Miranca",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Leader"
+        ],
+        "purviews": [
+            "Artistry (Dance)",
+            "Beauty",
+            "Fire",
+            "Health",
+            "Passion (Love)",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tsagan Ebugen",
+        "title": "The White Old Man, Lord of the Earth and Waters",
+        "pantheon": "Tengri",
+        "aliases": "Boro Ebugen, Arghatu Ebugen",
+        "callings": [
+            "Liminal",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Darkness",
+            "Earth",
+            "Fortune",
+            "Health",
+            "Order",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Umai Khatun",
+        "title": "Empress of the Placenta, Daughter of the Earth Mother",
+        "pantheon": "Tengri",
+        "aliases": "Umay",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry (Weaving)",
+            "Artistry (Pottery)",
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Health",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Zasa Mergen Baatar",
+        "title": "Invincible Eldest Son, God of Heroism",
+        "pantheon": "Tengri",
+        "aliases": "Amin Sakigchi, Baghataur",
+        "callings": [
+            "Lover",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Sports)",
+            "Beauty",
+            "Epic Stamina",
+            "Epic Strength",
+            "Sky",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Centeotl",
+        "title": "Deity of Corn and Maize",
+        "pantheon": "Teotl",
+        "aliases": "N/A",
+        "callings": [
+            "Healer",
+            "Guardian",
+            "Judge"
+        ],
+        "purviews": [
+            "Earth",
+            "Fertility",
+            "Prosperity"
+        ],
+        "notes": "Paired with Chicomecoatl",
+        "book": ""
+    },
+    {
+        "name": "Chalchuhuitlicue",
+        "title": "She of the Jade Skirt",
+        "pantheon": "Teotl",
+        "aliases": "The Water Sun, Acuecucyoticihuati, Matlalcueitl",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Aquatic Animal)",
+            "Fertility",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Chantico",
+        "title": "She Who Dwells in the House",
+        "pantheon": "Teotl",
+        "aliases": "Ruler of Ehecatl",
+        "callings": [
+            "Healer",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Fire",
+            "Forge",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Chicomecoatl",
+        "title": "Deity of Corn and Maize",
+        "pantheon": "Teotl",
+        "aliases": "Xilonen, Centeocihuatl",
+        "callings": [
+            "Healer",
+            "Guardian",
+            "Judge"
+        ],
+        "purviews": [
+            "Earth",
+            "Fertility",
+            "Prosperity"
+        ],
+        "notes": "Paired with Centeotl",
+        "book": ""
+    },
+    {
+        "name": "Huehuecoyotl",
+        "title": "The Old Coyote",
+        "pantheon": "Teotl",
+        "aliases": "Xochitl",
+        "callings": [
+            "Lover",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Epic Dexterity",
+            "Passion"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Huitzilopochtli",
+        "title": "God of War and the Sun",
+        "pantheon": "Teotl",
+        "aliases": "The Blue Tezcatlipoca, Lord of the South, Patron of Tenochtitlan, Champion of the Mēxihcah",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Eagle)",
+            "Beasts (Hummingbird)",
+            "Death",
+            "Epic Strength",
+            "Prosperity",
+            "Sun",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Itzapapalotl",
+        "title": "The Obsidian Butterfly",
+        "pantheon": "Teotl",
+        "aliases": "N/A",
+        "callings": [
+            "Hunter",
+            "Lover",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (all)",
+            "Darkness",
+            "Death",
+            "Fertility",
+            "Stars",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mictecacihuatl",
+        "title": "Queen of the Underworld",
+        "pantheon": "Teotl",
+        "aliases": "Lady of Mictlan, Watcher of the Bones, Lady of Death, La Calavera Catrina, Wife of Mictlantecuhtli",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bats)",
+            "Beasts (Owls)",
+            "Beasts (Spiders)",
+            "Darkness",
+            "Death",
+            "Passion (all)"
+        ],
+        "notes": "Paired with Mictlantecuhtli",
+        "book": ""
+    },
+    {
+        "name": "Mictlantecuhtli",
+        "title": "King of the Underworld",
+        "pantheon": "Teotl",
+        "aliases": "Lord of Mictlan, Baron de las Cenizas, Lord of Death, El Esqueleto, Husband of Mictecacihuatl",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Bats)",
+            "Beasts (Owls)",
+            "Beasts (Spiders)",
+            "Darkness",
+            "Death",
+            "Passion (all)"
+        ],
+        "notes": "Paired with Mictecacihuatl",
+        "book": ""
+    },
+    {
+        "name": "Quetzalcoatl",
+        "title": "The Feathered Serpent",
+        "pantheon": "Teotl",
+        "aliases": "The White Tezcatlipoca, Lord of the West, The Wind Sun, Ehecatl, Kukulkan, Precious Twin",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Writing)",
+            "Artistry (Feathers)",
+            "Beasts (all)",
+            "Fertility",
+            "Journeys",
+            "Order",
+            "Sky",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tezcatlipoca",
+        "title": "The Smoking Mirror",
+        "pantheon": "Teotl",
+        "aliases": "The Black Tezcatlipoca, Lord of the North",
+        "callings": [
+            "Trickster",
+            "Hunter",
+            "Leader"
+        ],
+        "purviews": [
+            "Beasts (Jaguar)",
+            "Beasts (Turkey)",
+            "Chaos",
+            "Darkness",
+            "Deception",
+            "Earth",
+            "Fortune",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tlaloc",
+        "title": "God of Rain",
+        "pantheon": "Teotl",
+        "aliases": "The Rain Sun",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Hunter"
+        ],
+        "purviews": [
+            "Death",
+            "Earth",
+            "Fertility",
+            "Frost",
+            "Health",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Xipe Totec",
+        "title": "Our Lord the Flayed One",
+        "pantheon": "Teotl",
+        "aliases": "The Red Tezcatlipoca, Lord of the East, Youalahuan, Camaxtli",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Hunter"
+        ],
+        "purviews": [
+            "Fertility",
+            "Forge",
+            "Health",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Xochipilli",
+        "title": "The Flower Prince",
+        "pantheon": "Teotl",
+        "aliases": "Chicomexochitl (“Seven Flower”), Macuilxochitl (“Five Flower”)",
+        "callings": [
+            "Lover",
+            "Guardian",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (all)",
+            "Beauty",
+            "Fortune",
+            "Passion (all)",
+            "Prosperity"
+        ],
+        "notes": "Twin to Xochiquetzal",
+        "book": ""
+    },
+    {
+        "name": "Xochiquetzal",
+        "title": "The Maiden of Blossom and Feather",
+        "pantheon": "Teotl",
+        "aliases": "Ichpochtli",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Lover"
+        ],
+        "purviews": [
+            "Artistry (all)",
+            "Beauty",
+            "Epic Dexterity",
+            "Fertility",
+            "Fortune",
+            "Passion (all)",
+            "Prosperity"
+        ],
+        "notes": "Twin to Xochipilli",
+        "book": ""
+    },
+    {
+        "name": "Xolotl",
+        "title": "God of Outcasts",
+        "pantheon": "Teotl",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Hunter",
+            "Liminal"
+        ],
+        "purviews": [
+            "Beasts (Dogs)",
+            "Chaos",
+            "Darkness",
+            "Death",
+            "Earth",
+            "Journeys"
+        ],
+        "notes": "Does not have own entry, see Quetzalcoatl",
+        "book": ""
+    },
+    {
+        "name": "Aphrodite",
+        "title": "Goddess of Love and Beauty",
+        "pantheon": "Theoi",
+        "aliases": "Venus",
+        "callings": [
+            "Lover",
+            "Guardian",
+            "Creator"
+        ],
+        "purviews": [
+            "Beauty",
+            "Fertility",
+            "Passion (Desire)",
+            "Passion (Love)",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Apollo",
+        "title": "God of Music, Prophecy, and Healing",
+        "pantheon": "Theoi",
+        "aliases": "Phoebus",
+        "callings": [
+            "Healer",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry",
+            "Epic Dexterity",
+            "Health",
+            "Sun"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Ares",
+        "title": "God of War",
+        "pantheon": "Theoi",
+        "aliases": "Mars",
+        "callings": [
+            "Warrior",
+            "Lover",
+            "Guardian"
+        ],
+        "purviews": [
+            "Chaos",
+            "Fertility",
+            "Order",
+            "Passion (Rage)",
+            "Passion (Valor)",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Artemis",
+        "title": "Goddess of the Hunt",
+        "pantheon": "Theoi",
+        "aliases": "Diana",
+        "callings": [
+            "Hunter",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Beasts",
+            "Epic Dexterity",
+            "Health",
+            "Moon",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Athena",
+        "title": "Goddess of Heroes, Wisdom, Strategy, and Law",
+        "pantheon": "Theoi",
+        "aliases": "Minerva",
+        "callings": [
+            "Guardian",
+            "Warrior",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Weaving)",
+            "Beasts (Owl)",
+            "Epic Dexterity",
+            "Order",
+            "War"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Demeter",
+        "title": "Goddes of Agriculture",
+        "pantheon": "Theoi",
+        "aliases": "Ceres",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Judge"
+        ],
+        "purviews": [
+            "Earth",
+            "Epic Stamina",
+            "Fertility",
+            "Order"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Dionysus",
+        "title": "God of Revelry",
+        "pantheon": "Theoi",
+        "aliases": "Bacchus",
+        "callings": [
+            "Lover",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Theatre)",
+            "Chaos",
+            "Deception",
+            "Fertility",
+            "Passion (Ecstasy)",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Hades",
+        "title": "God of the Underworld",
+        "pantheon": "Theoi",
+        "aliases": "Plouton, Pluto",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Earth",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Hecate",
+        "title": "Lady of the Crossroads",
+        "pantheon": "Theoi",
+        "aliases": "Brimo, Perseis",
+        "callings": [
+            "Healer",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Dogs)",
+            "Darkness",
+            "Fortune",
+            "Journeys",
+            "Moon",
+            "Stars",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hephaestus",
+        "title": "God of Craft and Industry",
+        "pantheon": "Theoi",
+        "aliases": "Vulcan",
+        "callings": [
+            "Creator",
+            "Trickster",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Fire",
+            "Forge",
+            "Fortune"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Hera",
+        "title": "Goddess of Marriage",
+        "pantheon": "Theoi",
+        "aliases": "Juno",
+        "callings": [
+            "Judge",
+            "Lover",
+            "Leader"
+        ],
+        "purviews": [
+            "Beauty",
+            "Fertility",
+            "Health",
+            "Order",
+            "Passion (Fidelity)",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Herakles",
+        "title": "",
+        "pantheon": "Theoi",
+        "aliases": "N/A",
+        "callings": [
+            ""
+        ],
+        "purviews": [
+            ""
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hermes",
+        "title": "God of Boundaries and Travel",
+        "pantheon": "Theoi",
+        "aliases": "Mercury",
+        "callings": [
+            "Trickster",
+            "Liminal",
+            "Sage"
+        ],
+        "purviews": [
+            "Death",
+            "Deception",
+            "Epic Dexterity",
+            "Journeys",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Hestia",
+        "title": "Goddess of the Hearth and Sacrifice",
+        "pantheon": "Theoi",
+        "aliases": "Vesta",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Judge"
+        ],
+        "purviews": [
+            "Fire",
+            "Fortune",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Persephone",
+        "title": "Goddess of the That Which Rises From the Earth",
+        "pantheon": "Theoi",
+        "aliases": "Kore, The Maiden",
+        "callings": [
+            "Judge",
+            "Leader",
+            "Liminal"
+        ],
+        "purviews": [
+            "Death",
+            "Fertility",
+            "Health"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Poseidon",
+        "title": "God of the Sea",
+        "pantheon": "Theoi",
+        "aliases": "Neptune, Earth-Shaker",
+        "callings": [
+            "Neptune",
+            "Earth-Shaker"
+        ],
+        "purviews": [
+            "Beasts (Horse)",
+            "Epic Strength",
+            "Earth",
+            "Water"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Zeus",
+        "title": "God of the Sky",
+        "pantheon": "Theoi",
+        "aliases": "Jupiter",
+        "callings": [
+            "Leader",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Epic Strength",
+            "Epic Stamina",
+            "Fortune",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "Hero"
+    },
+    {
+        "name": "Aengus the Mac Óg",
+        "title": "God of Love and Youth",
+        "pantheon": "Tuatha",
+        "aliases": "Oíngus, Óengus, Aonghus",
+        "callings": [
+            "Guardian",
+            "Lover",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Beauty",
+            "Deception",
+            "Moon",
+            "Passion (Love)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Brigid",
+        "title": "Triple Goddess of Fire",
+        "pantheon": "Tuatha",
+        "aliases": "Saint Brigid",
+        "callings": [
+            "Healer",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Artistry (Poetry)",
+            "Fertility",
+            "Fire",
+            "Forge",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Dian Cécht",
+        "title": "Physician of the Gods",
+        "pantheon": "Tuatha",
+        "aliases": "Cainte, Canta",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Judge"
+        ],
+        "purviews": [
+            "Fertility",
+            "Health",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Donn",
+        "title": "Lord of the Dead",
+        "pantheon": "Tuatha",
+        "aliases": "Éber Donn",
+        "callings": [
+            "Leader",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Darkness",
+            "Death",
+            "Journeys",
+            "Sky"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ériu",
+        "title": "Triple Goddess of Sovereignty",
+        "pantheon": "Tuatha",
+        "aliases": "Banba, Éire, Fótla",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Earth",
+            "Fertility",
+            "Order",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Goibniu",
+        "title": "Smith of the Gods",
+        "pantheon": "Tuatha",
+        "aliases": "Gaibhne",
+        "callings": [
+            "Creator",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Brewing)",
+            "Epic Stamina",
+            "Forge",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Lugh Lámhfhada",
+        "title": "The Long-Handed",
+        "pantheon": "Tuatha",
+        "aliases": "Samildánach (Many-Skilled)",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (All)",
+            "Epic Dexterity",
+            "Epic Strength",
+            "Forge",
+            "Health",
+            "Order",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Manannán Mac Lir",
+        "title": "God of the Sea",
+        "pantheon": "Tuatha",
+        "aliases": "Manann",
+        "callings": [
+            "Guardian",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Journeys",
+            "Prosperity",
+            "Stars",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Midir",
+        "title": "God of Hunting, Games, and Strategy",
+        "pantheon": "Tuatha",
+        "aliases": "N/A",
+        "callings": [
+            "Hunter",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Deception",
+            "Earath",
+            "Fortune",
+            "Passion (Focus)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Nuada Airgetlám",
+        "title": "of the Silver Hand",
+        "pantheon": "Tuatha",
+        "aliases": "Nuadu, Airgeadlámh (Silver Hand)",
+        "callings": [
+            "Leader",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Order",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ogma",
+        "title": "Champion of the Gods",
+        "pantheon": "Tuatha",
+        "aliases": "Oghma",
+        "callings": [
+            "Guardian",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Artistry (Oration)",
+            "Artistry (Poetry)",
+            "Epic Strength",
+            "Fortune",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "The Dagda",
+        "title": "Ruadh Rofhessa (Red Lord of Great Knowledge)",
+        "pantheon": "Tuatha",
+        "aliases": "Eochaid Ollathair, the Good God",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Epic Stamina",
+            "Epic Strength",
+            "Fertility",
+            "Forge",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "The Morrígan",
+        "title": "Triple Goddess of Prophecy and War",
+        "pantheon": "Tuatha",
+        "aliases": "Morrígu, the Morrígna, Badb, Macha, Nemain, Anand, others",
+        "callings": [
+            "Liminal",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Crows)",
+            "Beasts (Cattle)",
+            "Beasts (Horses)",
+            "Chaos",
+            "Death",
+            "Epic Dexterity",
+            "Fortune",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Anahita",
+        "title": "of the Water",
+        "pantheon": "Yazata",
+        "aliases": "Aban, Anahit, Anaïtis, Apam Napat, Apas, Ardwisur Anahid, Arduuī Sūrā, Aredvi Sura, Avān, Banug, Berezant, Burz, Mother of the Waters, Nahid",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beauty",
+            "Health",
+            "Water",
+            "War",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Ashi",
+        "title": "of the Good Reward",
+        "pantheon": "Yazata",
+        "aliases": "Ahrishwang, Ashishvangh, Ashi Vanghihu, Ard, Ardoxso, Parendi",
+        "callings": [
+            "Judge",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Earth",
+            "Fortune",
+            "Prosperity",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Atar",
+        "title": "Son of Ahura Mazda",
+        "pantheon": "Yazata",
+        "aliases": "Adar, Adur, Atash, Azar",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Artistry (Innovation)",
+            "Beauty",
+            "Fire",
+            "Forge",
+            "Health",
+            "Passion (Devotion)"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Haoma",
+        "title": "The First Priest",
+        "pantheon": "Yazata",
+        "aliases": "Doraosa, Hom, Hum",
+        "callings": [
+            "Healer",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beauty",
+            "Epic Strength",
+            "Fertility",
+            "Health"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Hvare-Khshaeta",
+        "title": "Who is the Radiant Sun",
+        "pantheon": "Yazata",
+        "aliases": "Hvar, Khorshid, Khurshed, Khwarshed, Suhar",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Leader"
+        ],
+        "purviews": [
+            "Beauty",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mangha",
+        "title": "Who is the Moon",
+        "pantheon": "Yazata",
+        "aliases": "Gohzir, Māh, Māha, Māonghah, Mens, Mōhōr",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Beasts (Bovines)",
+            "Fertility",
+            "Fortune",
+            "Moon",
+            "Prosperity"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Mithra",
+        "title": "of the Covenants",
+        "pantheon": "Yazata",
+        "aliases": "Miça, Mihr, Mihryazd, Miiro, Mithras, Misi, Miuro, Myhr",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Leader"
+        ],
+        "purviews": [
+            "Death",
+            "Order",
+            "Sun"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Rashnu",
+        "title": "Who is Justice",
+        "pantheon": "Yazata",
+        "aliases": "Rashn, Rashne, Rasn, Razishta",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Liminal"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Strength",
+            "Journeys",
+            "Order"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Sraosha",
+        "title": "Who is Conscience",
+        "pantheon": "Yazata",
+        "aliases": "Darshidru, Sarosh, Sorush, Srosh, Suros, Surush",
+        "callings": [
+            "Guardian",
+            "Judge",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry (Song)",
+            "Death",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Journeys",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Tishtrya",
+        "title": "of the Rain",
+        "pantheon": "Yazata",
+        "aliases": "Roozahang, Shabahang, Sirius, Tir, Tishtar, Tysh, Tyry, Varahang",
+        "callings": [
+            "Guardian",
+            "Healer",
+            "Warrior"
+        ],
+        "purviews": [
+            "Beasts (Horses)",
+            "Fertility",
+            "Health",
+            "Sky Stars",
+            "Water"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Vanant",
+        "title": "the Good",
+        "pantheon": "Yazata",
+        "aliases": "Oanindo, Vanand, Vega, Wanand",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Judge"
+        ],
+        "purviews": [
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Journeys",
+            "Stars"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Vata-Vayu",
+        "title": "Who is the Wind",
+        "pantheon": "Yazata",
+        "aliases": "Anil, Bata, Futen, Oado, Oesho, Pavan, Rām, Tanun, Vād, Vata, Vaiiu, Vāyu",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Trickster"
+        ],
+        "purviews": [
+            "Chaos",
+            "Death",
+            "Epic Dexterity",
+            "Sky",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Verethragna",
+        "title": "Who Smites All Resistance",
+        "pantheon": "Yazata",
+        "aliases": "Artagnes, Bahram, Behram, Damois Upamana, Orlagno, Vahagn, Vahram, Vehram, Warahran, Wryhrm",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Warrior"
+        ],
+        "purviews": [
+            "Berasts (All)",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Fertility",
+            "Health",
+            "Journeys",
+            "War"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Zam",
+        "title": "Who is the Earth",
+        "pantheon": "Yazata",
+        "aliases": "Zamin, Zamyad",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Beauty",
+            "Earth",
+            "Epic Stamina",
+            "Wild"
+        ],
+        "notes": "",
+        "book": ""
+    },
+    {
+        "name": "Achinao",
+        "title": "The Star Quartet",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Shepard"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Epic Dexterity",
+            "Journeys",
+            "Stars"
+        ],
+        "notes": "Tied to Coromo, Racuno, and Sabaco",
+        "book": "God"
+    },
+    {
+        "name": "Anacacuya",
+        "title": "The First Cacique",
+        "pantheon": "Zemi",
+        "aliases": "The Star of the Center",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Forge",
+            "Fortune",
+            "Journeys",
+            "Order",
+            "Stars"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Bayamanaco",
+        "title": "Old Man Fire",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Sage",
+            "Warrior"
+        ],
+        "purviews": [
+            "Fire",
+            "Forge",
+            "Passion (Anger)",
+            "War"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Boinael",
+        "title": "God of the Sun",
+        "pantheon": "Zemi",
+        "aliases": "Boniael",
+        "callings": [
+            "Judge",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Deception",
+            "Epic Dexterity",
+            "Fertility",
+            "Sun"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Boínayel",
+        "title": "God of the Rain",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Healer"
+        ],
+        "purviews": [
+            "Fertility",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Caguana",
+        "title": "Goddess of Love",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Healer",
+            "Lover",
+            "Sage"
+        ],
+        "purviews": [
+            "Beauty",
+            "Fertility",
+            "Fortune",
+            "Passion (Love)"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Coromo",
+        "title": "The Star Quartet",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Shepard"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Epic Dexterity",
+            "Journeys",
+            "Stars"
+        ],
+        "notes": "Tied to Achinao, Racuno, and Sobaco",
+        "book": "God"
+    },
+    {
+        "name": "Deminán Caracaracol",
+        "title": "Of the Sacred Four",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Sage",
+            "Trickster"
+        ],
+        "purviews": [
+            "Beasts (Turtles)",
+            "Chaos",
+            "Deception",
+            "Earth",
+            "Fire",
+            "Fortune",
+            "Prosperity",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Guacar",
+        "title": "Who Lives in the Earth",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Guardian",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry",
+            "Darkness",
+            "Earth",
+            "Epic Stamina",
+            "Epic Strength",
+            "Forge"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Iguanaboína",
+        "title": "The Rainbow Serpent",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Lover"
+        ],
+        "purviews": [
+            "Beasts (Serpents)",
+            "Beauty",
+            "Passion (Love)",
+            "Prosperity",
+            "Sky",
+            "Water"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Itiba Cahubaba",
+        "title": "The Great Bleeding Mother",
+        "pantheon": "Zemi",
+        "aliases": "La Vírgen de la Caridad",
+        "callings": [
+            "Creator",
+            "Healer",
+            "Lover"
+        ],
+        "purviews": [
+            "Death",
+            "Epic Stamina",
+            "Fertility",
+            "Health"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Maquetaríe Guayaba",
+        "title": "Cacique of Coaybay",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Leader",
+            "Liminal",
+            "Judge"
+        ],
+        "purviews": [
+            "Beasts (Bats)",
+            "Darkness",
+            "Death",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Márohu",
+        "title": "God of Clear Skies",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Deception",
+            "Fertility",
+            "Order",
+            "Sky"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Maroya",
+        "title": "Goddess of the Moon",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Hunter",
+            "Liminal",
+            "Warrior"
+        ],
+        "purviews": [
+            "Darkness",
+            "Epic Dexterity",
+            "Epic Stamina",
+            "Epic Strength",
+            "Journeys",
+            "Moon",
+            "Stars",
+            "Warrior",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Opiyelguabirán",
+        "title": "The Hound of the Dead",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Guardian",
+            "Hunter",
+            "Judge"
+        ],
+        "purviews": [
+            "Beasts (dogs)",
+            "Darkness",
+            "Death",
+            "Order",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "God"
+    },
+    {
+        "name": "Racuno",
+        "title": "The Star Quartet",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Shepard"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Epic Dexterity",
+            "Journeys",
+            "Stars"
+        ],
+        "notes": "Tied to Achinao, Coromo, and Sobaco",
+        "book": "God"
+    },
+    {
+        "name": "Sobaco",
+        "title": "The Star Quartet",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Liminal",
+            "Shepard"
+        ],
+        "purviews": [
+            "Beasts (Birds)",
+            "Epic Dexterity",
+            "Journeys",
+            "Stars"
+        ],
+        "notes": "Tied to Achinao, Coromo, and Racuno",
+        "book": "God"
+    },
+    {
+        "name": "Yúcahu Bagua Maó Rocoti",
+        "title": "He Who Has No Father",
+        "pantheon": "Zemi",
+        "aliases": "N/A",
+        "callings": [
+            "Creator",
+            "Leader",
+            "Sage"
+        ],
+        "purviews": [
+            "Artistry",
+            "Earth",
+            "Fertility",
+            "Forge",
+            "Fortune",
+            "Order",
+            "Prosperity",
+            "Water",
+            "Wild"
+        ],
+        "notes": "",
+        "book": "God"
+    }
+]

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: yellowgreen;
+}
+
+h1,
+h2 {
+  font-family: 'Audiowide', sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Saira', sans-serif;
+  padding: 10px 20px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline;
+  border-bottom: 1px dotted white;
+  cursor: pointer;
+}
+
+.tooltiptext {
+  visibility: hidden;
+  width: 130px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
