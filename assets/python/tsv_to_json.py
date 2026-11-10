@@ -27,22 +27,18 @@ def main():
 def clean_purviews(purviews):
     purview_typos = {
         'Beasts': ['Beast', 'Berasts'],
-        'Journeys': ['Journey'],
+        'Journeys': ['Journey', 'Journeys.'],
         'Fertility': ['Feritlity', 'Feritility'],
         'Health' : ['Healtrh'],
-        'Earth': ['Earath']
+        'Earth': ['Earath'],
+        'Wild': ['. Wild']
     }
     
     cleaned_purviews = []
     
-    for p in purviews:
-        for key in purview_typos:
-            values = purview_typos[key]
-            for val in values:
-                if val == p:
-                    cleaned_purviews.append(key)
-                else:
-                    cleaned_purviews.append(p)
+    typo_map = {typo: correct for correct, typos in purview_typos.items() for typo in typos}
+
+    cleaned_purviews = [typo_map.get(word, word) for word in purviews]
     
     return cleaned_purviews
     
