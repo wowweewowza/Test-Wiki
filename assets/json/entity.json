@@ -692,7 +692,7 @@
             "Liminal"
         ],
         "purviews": [
-            "Beast (Aquatic Creatures)",
+            "Beasts(Aquatic Creatures)",
             "Health",
             "Water",
             "Journeys (Water)"
@@ -733,7 +733,7 @@
         "purviews": [
             "Epic Strength",
             "Order",
-            "Beast (All)",
+            "Beasts(All)",
             "War",
             "Earth"
         ],
@@ -751,7 +751,7 @@
             "Warrior"
         ],
         "purviews": [
-            "Beast (Serpents)",
+            "Beasts(Serpents)",
             "Fertility",
             "Fortune",
             "War",
@@ -2434,7 +2434,7 @@
             "Stars",
             "Beauty",
             "Fortune",
-            "Beast (Snake)",
+            "Beasts(Snake)",
             "Artistry"
         ],
         "notes": "",
@@ -3305,7 +3305,7 @@
         ],
         "purviews": [
             "Darkness",
-            "Beast (Jackal)",
+            "Beasts(Jackal)",
             "Order",
             "Death"
         ],
@@ -3324,8 +3324,8 @@
         ],
         "purviews": [
             "",
-            "Beast (Kite)",
-            "Beast (Serpent)",
+            "Beasts(Kite)",
+            "Beasts(Serpent)",
             "Deception",
             "Death"
         ],
@@ -3457,7 +3457,7 @@
         ],
         "purviews": [
             "Fire",
-            "Beast (Bull)",
+            "Beasts(Bull)",
             "Forge",
             "Prosperity"
         ],
@@ -3477,11 +3477,11 @@
         "purviews": [
             "Fire",
             "Order",
-            "Beast (Falcon)",
-            "Beast (Scarab)",
+            "Beasts(Falcon)",
+            "Beasts(Scarab)",
             "Sun",
             "Journeys",
-            "Beast (Ram)",
+            "Beasts(Ram)",
             "Epic Stamina",
             "Death"
         ],
@@ -4455,7 +4455,7 @@
         ],
         "purviews": [
             "Fire",
-            "Beast (Bull)",
+            "Beasts(Bull)",
             "Epic Strength",
             "Order",
             "Epic Dexterity",

@@ -126,6 +126,16 @@ body {
   visibility: visible;
 }
 
+/* Footer */
+
+.footer {
+  background-color: inherit;
+  display: flex;
+  justify-content: right;
+  padding-top: 20px;
+  width: 100%;
+}
+
 /* Basic */
 
 .flex-container {

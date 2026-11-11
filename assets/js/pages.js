@@ -24,7 +24,6 @@ async function getData(type) {
 }
 
 // For picking out info from chosen entities
-
 const entityName = document.getElementById('ent-name');
 if (entityName) {
     const entity = await getEntity();
@@ -50,7 +49,7 @@ if (entityAliases) {
 }
 
 const entityPurviews = document.getElementById('ent-purviews')
-if (entityPurviews) {   
+if (entityPurviews) {
     const entity = await getEntity();
     entityPurviews.innerHTML = `
         ${entity.purviews
@@ -63,7 +62,7 @@ if (entityPurviews) {
 }
 
 const entityCallings = document.getElementById('ent-callings')
-if (entityCallings) {   
+if (entityCallings) {
     const entity = await getEntity();
     entityCallings.innerHTML = `
         ${entity.callings
@@ -108,4 +107,11 @@ if (purviewList) {
                 </button>
             </a>`)
         .join('');
+}
+
+// Templates
+
+const footer = document.getElementById('footer');
+if (footer) {
+    footer.innerHTML = '<a href="..">Go Back</a>';
 }
